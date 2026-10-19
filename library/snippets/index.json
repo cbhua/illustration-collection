@@ -1,0 +1,595 @@
+{
+ "op-times-box": {
+  "title": "op-times-box",
+  "texts": [],
+  "size": [
+   15.0,
+   15.0
+  ],
+  "files": [
+   "GAMTF Overview",
+   "WaterResearch"
+  ],
+  "count": 6,
+  "modified": "2023-10-15",
+  "children": 2,
+  "sig": "633eed29"
+ },
+ "op-sigma-circle": {
+  "title": "op-sigma-circle",
+  "texts": [],
+  "size": [
+   19.0,
+   19.0
+  ],
+  "files": [
+   "GAMTF Overview",
+   "WaterResearch"
+  ],
+  "count": 4,
+  "modified": "2023-10-15",
+  "children": 2,
+  "sig": "3de4c52e"
+ },
+ "attention-row-client-vehicle": {
+  "title": "attention-row-client-vehicle",
+  "texts": [
+   "Client-Vehicle (CV) Attention"
+  ],
+  "size": [
+   132.5,
+   29.7
+  ],
+  "files": [
+   "CAMP Illustration",
+   "USPR Overview"
+  ],
+  "count": 3,
+  "modified": "2025-05-07",
+  "children": 28,
+  "sig": "1ea492f1"
+ },
+ "attention-row-vehicle-client": {
+  "title": "attention-row-vehicle-client",
+  "texts": [
+   "Vehicle-Client (VC) Attention"
+  ],
+  "size": [
+   132.5,
+   29.7
+  ],
+  "files": [
+   "CAMP Illustration",
+   "USPR Overview"
+  ],
+  "count": 3,
+  "modified": "2025-05-07",
+  "children": 26,
+  "sig": "4ed34ea1"
+ },
+ "gru-cell-schematic": {
+  "title": "gru-cell-schematic",
+  "texts": [],
+  "size": [
+   149.0,
+   66.4
+  ],
+  "files": [
+   "Application of AI Model",
+   "Chemosphere Overview"
+  ],
+  "count": 3,
+  "modified": "2025-04-18",
+  "children": 21,
+  "sig": "77272448"
+ },
+ "attention-row-client-client": {
+  "title": "attention-row-client-client",
+  "texts": [
+   "Client-Client (CC) Attention"
+  ],
+  "size": [
+   132.5,
+   29.7
+  ],
+  "files": [
+   "CAMP Illustration",
+   "USPR Overview"
+  ],
+  "count": 3,
+  "modified": "2025-05-07",
+  "children": 30,
+  "sig": "8c4e445f"
+ },
+ "attention-row-vehicle-vehicle": {
+  "title": "attention-row-vehicle-vehicle",
+  "texts": [
+   "Vehicle-Vehicle (VV) Attention"
+  ],
+  "size": [
+   132.5,
+   29.7
+  ],
+  "files": [
+   "CAMP Illustration",
+   "USPR Overview"
+  ],
+  "count": 3,
+  "modified": "2025-05-07",
+  "children": 20,
+  "sig": "f976e881"
+ },
+ "tile-mlp": {
+  "title": "tile-mlp",
+  "texts": [
+   "MLP"
+  ],
+  "size": [
+   76.0,
+   89.0
+  ],
+  "files": [
+   "Water Research Overview",
+   "WaterResearch"
+  ],
+  "count": 2,
+  "modified": "2023-10-15",
+  "children": 3,
+  "sig": "0919ad7e"
+ },
+ "card-lstm-cell": {
+  "title": "card-lstm-cell",
+  "texts": [],
+  "size": [
+   130.0,
+   102.0
+  ],
+  "files": [
+   "Water Research Overview",
+   "WaterResearch"
+  ],
+  "count": 2,
+  "modified": "2023-10-15",
+  "children": 24,
+  "sig": "0a8510cb"
+ },
+ "conv1d-over-timeseries": {
+  "title": "conv1d-over-timeseries",
+  "texts": [
+   "…",
+   "…",
+   "RW Flow Rate"
+  ],
+  "size": [
+   233.2,
+   108.6
+  ],
+  "files": [
+   "GAMTF Overview",
+   "WaterResearch"
+  ],
+  "count": 2,
+  "modified": "2023-10-15",
+  "children": 19,
+  "sig": "0cb8b725"
+ },
+ "binary-tree-right": {
+  "title": "binary-tree-right",
+  "texts": [],
+  "size": [
+   38.0,
+   25.5
+  ],
+  "files": [
+   "Water Research Overview",
+   "WaterResearch"
+  ],
+  "count": 2,
+  "modified": "2023-10-15",
+  "children": 9,
+  "sig": "19edd9ca"
+ },
+ "timeseries-strip": {
+  "title": "timeseries-strip",
+  "texts": [
+   "RW Alkalinity"
+  ],
+  "size": [
+   303.1,
+   25.6
+  ],
+  "files": [
+   "GAMTF Overview",
+   "WaterResearch"
+  ],
+  "count": 2,
+  "modified": "2023-10-15",
+  "children": 2,
+  "sig": "2d6fc169"
+ },
+ "graph-k5-mini": {
+  "title": "graph-k5-mini",
+  "texts": [],
+  "size": [
+   16.3,
+   15.3
+  ],
+  "files": [
+   "Water Research Overview",
+   "WaterResearch"
+  ],
+  "count": 2,
+  "modified": "2023-10-15",
+  "children": 15,
+  "sig": "31137d2a"
+ },
+ "gru-cell-equations": {
+  "title": "gru-cell-equations",
+  "texts": [],
+  "size": [
+   215.0,
+   96.6
+  ],
+  "files": [
+   "GAMTF Overview",
+   "WaterResearch"
+  ],
+  "count": 2,
+  "modified": "2023-10-15",
+  "children": 40,
+  "sig": "3874052c"
+ },
+ "tile-lstm": {
+  "title": "tile-lstm",
+  "texts": [
+   "LSTM"
+  ],
+  "size": [
+   76.0,
+   89.0
+  ],
+  "files": [
+   "Water Research Overview",
+   "WaterResearch"
+  ],
+  "count": 2,
+  "modified": "2023-10-15",
+  "children": 3,
+  "sig": "3ae489cc"
+ },
+ "card-linear-regression": {
+  "title": "card-linear-regression",
+  "texts": [
+   "MLR"
+  ],
+  "size": [
+   103.3,
+   120.0
+  ],
+  "files": [
+   "Water Research Overview",
+   "WaterResearch"
+  ],
+  "count": 2,
+  "modified": "2023-10-15",
+  "children": 14,
+  "sig": "5f06e88b"
+ },
+ "binary-tree-left": {
+  "title": "binary-tree-left",
+  "texts": [],
+  "size": [
+   36.1,
+   25.5
+  ],
+  "files": [
+   "Water Research Overview",
+   "WaterResearch"
+  ],
+  "count": 2,
+  "modified": "2023-10-15",
+  "children": 9,
+  "sig": "65032e1b"
+ },
+ "card-random-forest": {
+  "title": "card-random-forest",
+  "texts": [
+   "RF"
+  ],
+  "size": [
+   107.6,
+   120.0
+  ],
+  "files": [
+   "Water Research Overview",
+   "WaterResearch"
+  ],
+  "count": 2,
+  "modified": "2023-10-15",
+  "children": 29,
+  "sig": "71f123cc"
+ },
+ "card-gru-cell": {
+  "title": "card-gru-cell",
+  "texts": [
+   "GRU"
+  ],
+  "size": [
+   130.0,
+   102.0
+  ],
+  "files": [
+   "Water Research Overview",
+   "WaterResearch"
+  ],
+  "count": 2,
+  "modified": "2023-10-15",
+  "children": 24,
+  "sig": "741da271"
+ },
+ "tile-mlr": {
+  "title": "tile-mlr",
+  "texts": [
+   "MLR"
+  ],
+  "size": [
+   76.0,
+   89.0
+  ],
+  "files": [
+   "Water Research Overview",
+   "WaterResearch"
+  ],
+  "count": 2,
+  "modified": "2023-10-15",
+  "children": 3,
+  "sig": "7d01632e"
+ },
+ "graph-k4-blue": {
+  "title": "graph-k4-blue",
+  "texts": [],
+  "size": [
+   94.5,
+   59.3
+  ],
+  "files": [
+   "GAMTF Overview",
+   "WaterResearch"
+  ],
+  "count": 2,
+  "modified": "2023-10-15",
+  "children": 14,
+  "sig": "9e8607a0"
+ },
+ "graph-k4-orange-weighted": {
+  "title": "graph-k4-orange-weighted",
+  "texts": [],
+  "size": [
+   98.8,
+   54.6
+  ],
+  "files": [
+   "GAMTF Overview",
+   "WaterResearch"
+  ],
+  "count": 2,
+  "modified": "2023-10-15",
+  "children": 15,
+  "sig": "9f2529b5"
+ },
+ "mlp-dense-network": {
+  "title": "mlp-dense-network",
+  "texts": [],
+  "size": [
+   85.1,
+   72.3
+  ],
+  "files": [
+   "Water Research Overview",
+   "WaterResearch"
+  ],
+  "count": 2,
+  "modified": "2023-10-15",
+  "children": 58,
+  "sig": "d6fb5c3b"
+ },
+ "op-plus-box": {
+  "title": "op-plus-box",
+  "texts": [],
+  "size": [
+   15.0,
+   15.0
+  ],
+  "files": [
+   "GAMTF Overview",
+   "WaterResearch"
+  ],
+  "count": 2,
+  "modified": "2023-10-15",
+  "children": 2,
+  "sig": "db70034a"
+ },
+ "card-gamtf": {
+  "title": "card-gamtf",
+  "texts": [
+   "GAMTF"
+  ],
+  "size": [
+   130.0,
+   102.0
+  ],
+  "files": [
+   "Water Research Overview",
+   "WaterResearch"
+  ],
+  "count": 2,
+  "modified": "2023-10-15",
+  "children": 51,
+  "sig": "db8bb35a"
+ },
+ "tile-gamtf": {
+  "title": "tile-gamtf",
+  "texts": [
+   "GAMTF"
+  ],
+  "size": [
+   84.0,
+   89.0
+  ],
+  "files": [
+   "Water Research Overview",
+   "WaterResearch"
+  ],
+  "count": 2,
+  "modified": "2023-10-15",
+  "children": 3,
+  "sig": "dc3c68f6"
+ },
+ "tile-gru": {
+  "title": "tile-gru",
+  "texts": [
+   "GRU"
+  ],
+  "size": [
+   76.0,
+   89.0
+  ],
+  "files": [
+   "Water Research Overview",
+   "WaterResearch"
+  ],
+  "count": 2,
+  "modified": "2023-10-15",
+  "children": 3,
+  "sig": "f50ab5a8"
+ },
+ "legend-depot-customers": {
+  "title": "legend-depot-customers",
+  "texts": [
+   ">",
+   ">"
+  ],
+  "size": [
+   87.3,
+   24.0
+  ],
+  "files": [
+   "JudgeFlow Overview"
+  ],
+  "count": 6,
+  "modified": "2026-08-25",
+  "children": 7,
+  "sig": "62086d90"
+ },
+ "token-stack-history": {
+  "title": "token-stack-history",
+  "texts": [
+   "History"
+  ],
+  "size": [
+   127.0,
+   215.0
+  ],
+  "files": [
+   "Robot Navigation Overview Illustration"
+  ],
+  "count": 2,
+  "modified": "2025-04-18",
+  "children": 9,
+  "sig": "29a1125e"
+ },
+ "qa-dataset-table": {
+  "title": "qa-dataset-table",
+  "texts": [
+   "...",
+   "Answer N",
+   "Answer 2",
+   "Answer 1",
+   "...",
+   "Question N",
+   "Question 2",
+   "Question 1",
+   "Dataset"
+  ],
+  "size": [
+   168.4,
+   93.6
+  ],
+  "files": [
+   "JudgeFlow Overview"
+  ],
+  "count": 2,
+  "modified": "2026-08-25",
+  "children": 19,
+  "sig": "32bae959"
+ },
+ "hypergraph-blobs": {
+  "title": "hypergraph-blobs",
+  "texts": [
+   "EvolveHyperGraph"
+  ],
+  "size": [
+   195.9,
+   243.0
+  ],
+  "files": [
+   "Robot Navigation Overview Illustration"
+  ],
+  "count": 2,
+  "modified": "2025-04-18",
+  "children": 19,
+  "sig": "37c1b2cf"
+ },
+ "token-stack-prediction": {
+  "title": "token-stack-prediction",
+  "texts": [
+   "Prediction"
+  ],
+  "size": [
+   107.8,
+   215.0
+  ],
+  "files": [
+   "Robot Navigation Overview Illustration"
+  ],
+  "count": 2,
+  "modified": "2025-04-18",
+  "children": 9,
+  "sig": "51aa061c"
+ },
+ "legend-customers-arrows": {
+  "title": "legend-customers-arrows",
+  "texts": [
+   ">",
+   ">"
+  ],
+  "size": [
+   67.4,
+   24.0
+  ],
+  "files": [
+   "JudgeFlow Overview"
+  ],
+  "count": 2,
+  "modified": "2026-08-25",
+  "children": 6,
+  "sig": "6758ce1a"
+ },
+ "graph-k4-h-nodes": {
+  "title": "graph-k4-h-nodes",
+  "texts": [
+   "…"
+  ],
+  "size": [
+   67.8,
+   75.0
+  ],
+  "files": [
+   "Graph OOD Overview"
+  ],
+  "count": 1,
+  "modified": "2023-10-15",
+  "children": 14,
+  "sig": "c820f073"
+ }
+}

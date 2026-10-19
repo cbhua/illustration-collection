@@ -1,0 +1,1518 @@
+[
+ {
+  "sig": "611e5462",
+  "name": "layer3",
+  "texts": [],
+  "files": [
+   "Water Research Overview",
+   "WaterResearch"
+  ],
+  "count": 6,
+  "children": 4
+ },
+ {
+  "sig": "aaa116f5",
+  "name": "layer4",
+  "texts": [],
+  "files": [
+   "Water Research Overview",
+   "WaterResearch"
+  ],
+  "count": 6,
+  "children": 3
+ },
+ {
+  "sig": "9f7336d5",
+  "name": "GRU",
+  "texts": [],
+  "files": [
+   "Application of AI Model",
+   "Chemosphere Overview"
+  ],
+  "count": 3,
+  "children": 21
+ },
+ {
+  "sig": "dc8b08c5",
+  "name": "GRU",
+  "texts": [],
+  "files": [
+   "Application of AI Model",
+   "Chemosphere Overview"
+  ],
+  "count": 3,
+  "children": 21
+ },
+ {
+  "sig": "117212b1",
+  "name": "Coagulant does",
+  "texts": [
+   "RW Coagulant Does"
+  ],
+  "files": [
+   "GAMTF Overview",
+   "WaterResearch"
+  ],
+  "count": 2,
+  "children": 2
+ },
+ {
+  "sig": "2cf102cc",
+  "name": null,
+  "texts": [
+   "1",
+   "Score: 132",
+   "4",
+   "4",
+   "0",
+   "0"
+  ],
+  "files": [
+   "Camel Up UI",
+   "Splendar UI"
+  ],
+  "count": 2,
+  "children": 19
+ },
+ {
+  "sig": "306ee02c",
+  "name": "SW Trubidity",
+  "texts": [
+   "SW Turbidity"
+  ],
+  "files": [
+   "GAMTF Overview",
+   "WaterResearch"
+  ],
+  "count": 2,
+  "children": 2
+ },
+ {
+  "sig": "3e456700",
+  "name": null,
+  "texts": [
+   "1",
+   "Score: 32",
+   "4",
+   "4",
+   "0",
+   "0"
+  ],
+  "files": [
+   "Camel Up UI",
+   "Splendar UI"
+  ],
+  "count": 2,
+  "children": 19
+ },
+ {
+  "sig": "468cd26c",
+  "name": "Combined Features",
+  "texts": [],
+  "files": [
+   "GAMTF Overview",
+   "WaterResearch"
+  ],
+  "count": 2,
+  "children": 16
+ },
+ {
+  "sig": "4e4efc04",
+  "name": "SW Turbidity",
+  "texts": [
+   "…",
+   "…",
+   "RW Alkalinity"
+  ],
+  "files": [
+   "GAMTF Overview",
+   "WaterResearch"
+  ],
+  "count": 2,
+  "children": 18
+ },
+ {
+  "sig": "56319a23",
+  "name": "Construst Graph",
+  "texts": [
+   "…",
+   "…",
+   "…"
+  ],
+  "files": [
+   "GAMTF Overview",
+   "WaterResearch"
+  ],
+  "count": 2,
+  "children": 24
+ },
+ {
+  "sig": "5b286324",
+  "name": null,
+  "texts": [
+   "1",
+   "Score: 0",
+   "4",
+   "4",
+   "0",
+   "0"
+  ],
+  "files": [
+   "Camel Up UI",
+   "Splendar UI"
+  ],
+  "count": 2,
+  "children": 19
+ },
+ {
+  "sig": "76700022",
+  "name": "GRU",
+  "texts": [],
+  "files": [
+   "Water Research Overview",
+   "WaterResearch"
+  ],
+  "count": 2,
+  "children": 22
+ },
+ {
+  "sig": "7eef8048",
+  "name": "pH",
+  "texts": [
+   "RW pH"
+  ],
+  "files": [
+   "GAMTF Overview",
+   "WaterResearch"
+  ],
+  "count": 2,
+  "children": 2
+ },
+ {
+  "sig": "896ad4d4",
+  "name": "MLR",
+  "texts": [],
+  "files": [
+   "Water Research Overview",
+   "WaterResearch"
+  ],
+  "count": 2,
+  "children": 12
+ },
+ {
+  "sig": "96491a48",
+  "name": "Turbidity",
+  "texts": [
+   "RW Turbidity"
+  ],
+  "files": [
+   "GAMTF Overview",
+   "WaterResearch"
+  ],
+  "count": 2,
+  "children": 2
+ },
+ {
+  "sig": "b08a807f",
+  "name": "Flow Rate",
+  "texts": [
+   "RW Flow Rate"
+  ],
+  "files": [
+   "GAMTF Overview",
+   "WaterResearch"
+  ],
+  "count": 2,
+  "children": 3
+ },
+ {
+  "sig": "b69ce816",
+  "name": "minigru",
+  "texts": [],
+  "files": [
+   "Water Research Overview",
+   "WaterResearch"
+  ],
+  "count": 2,
+  "children": 3
+ },
+ {
+  "sig": "c01a0600",
+  "name": "Graph1",
+  "texts": [],
+  "files": [
+   "GAMTF Overview",
+   "WaterResearch"
+  ],
+  "count": 2,
+  "children": 15
+ },
+ {
+  "sig": "c69e9af5",
+  "name": null,
+  "texts": [
+   "1",
+   "Score: 121",
+   "4",
+   "4",
+   "0",
+   "0"
+  ],
+  "files": [
+   "Camel Up UI",
+   "Splendar UI"
+  ],
+  "count": 2,
+  "children": 19
+ },
+ {
+  "sig": "d3ec46a2",
+  "name": "LSTM",
+  "texts": [
+   "LSTM"
+  ],
+  "files": [
+   "Water Research Overview",
+   "WaterResearch"
+  ],
+  "count": 2,
+  "children": 26
+ },
+ {
+  "sig": "de8488be",
+  "name": "Equations",
+  "texts": [
+   "GRU Process"
+  ],
+  "files": [
+   "GAMTF Overview",
+   "WaterResearch"
+  ],
+  "count": 2,
+  "children": 6
+ },
+ {
+  "sig": "e6614962",
+  "name": "Graph2",
+  "texts": [],
+  "files": [
+   "GAMTF Overview",
+   "WaterResearch"
+  ],
+  "count": 2,
+  "children": 14
+ },
+ {
+  "sig": "ed7995d0",
+  "name": "RF",
+  "texts": [],
+  "files": [
+   "Water Research Overview",
+   "WaterResearch"
+  ],
+  "count": 2,
+  "children": 26
+ },
+ {
+  "sig": "edaf3320",
+  "name": "EC",
+  "texts": [
+   "RW EC"
+  ],
+  "files": [
+   "GAMTF Overview",
+   "WaterResearch"
+  ],
+  "count": 2,
+  "children": 2
+ },
+ {
+  "sig": "f058b7bf",
+  "name": "Temperature",
+  "texts": [
+   "RW Temperature"
+  ],
+  "files": [
+   "GAMTF Overview",
+   "WaterResearch"
+  ],
+  "count": 2,
+  "children": 2
+ },
+ {
+  "sig": "f4172aa4",
+  "name": null,
+  "texts": [
+   "Your Turn!",
+   "1",
+   "Score: 15",
+   "4",
+   "4",
+   "0"
+  ],
+  "files": [
+   "Camel Up UI",
+   "Splendar UI"
+  ],
+  "count": 2,
+  "children": 20
+ },
+ {
+  "sig": "f9260c10",
+  "name": "our",
+  "texts": [],
+  "files": [
+   "Water Research Overview",
+   "WaterResearch"
+  ],
+  "count": 2,
+  "children": 49
+ },
+ {
+  "sig": "ff0a5bee",
+  "name": "upgraph",
+  "texts": [],
+  "files": [
+   "Water Research Overview",
+   "WaterResearch"
+  ],
+  "count": 2,
+  "children": 15
+ },
+ {
+  "sig": "c658f9fb",
+  "name": null,
+  "texts": [],
+  "files": [
+   "JudgeFlow Overview"
+  ],
+  "count": 40,
+  "children": 2
+ },
+ {
+  "sig": "29b54782",
+  "name": null,
+  "texts": [],
+  "files": [
+   "JudgeFlow Overview"
+  ],
+  "count": 20,
+  "children": 2
+ },
+ {
+  "sig": "7b1dde6f",
+  "name": null,
+  "texts": [],
+  "files": [
+   "Robot Navigation Visualization 2"
+  ],
+  "count": 17,
+  "children": 2
+ },
+ {
+  "sig": "4eb9a680",
+  "name": null,
+  "texts": [],
+  "files": [
+   "JudgeFlow Overview"
+  ],
+  "count": 12,
+  "children": 2
+ },
+ {
+  "sig": "266b4c96",
+  "name": null,
+  "texts": [],
+  "files": [
+   "Robot Navigation Visualization 2"
+  ],
+  "count": 10,
+  "children": 6
+ },
+ {
+  "sig": "77642301",
+  "name": null,
+  "texts": [],
+  "files": [
+   "JudgeFlow Overview"
+  ],
+  "count": 9,
+  "children": 2
+ },
+ {
+  "sig": "191263ed",
+  "name": null,
+  "texts": [],
+  "files": [
+   "Robot Navigation Visualization 2"
+  ],
+  "count": 8,
+  "children": 6
+ },
+ {
+  "sig": "591e9f6d",
+  "name": null,
+  "texts": [],
+  "files": [
+   "Robot Navigation Visualization 2"
+  ],
+  "count": 8,
+  "children": 6
+ },
+ {
+  "sig": "855bc1fb",
+  "name": null,
+  "texts": [],
+  "files": [
+   "JudgeFlow Overview"
+  ],
+  "count": 8,
+  "children": 2
+ },
+ {
+  "sig": "9115152b",
+  "name": null,
+  "texts": [],
+  "files": [
+   "JudgeFlow Overview"
+  ],
+  "count": 8,
+  "children": 2
+ },
+ {
+  "sig": "a56857f4",
+  "name": null,
+  "texts": [],
+  "files": [
+   "Robot Navigation Visualization 2"
+  ],
+  "count": 8,
+  "children": 6
+ },
+ {
+  "sig": "c6ece75a",
+  "name": null,
+  "texts": [],
+  "files": [
+   "JudgeFlow Overview"
+  ],
+  "count": 8,
+  "children": 2
+ },
+ {
+  "sig": "2b48bd21",
+  "name": null,
+  "texts": [],
+  "files": [
+   "Robot Navigation Visualization 2"
+  ],
+  "count": 7,
+  "children": 6
+ },
+ {
+  "sig": "2b4a4237",
+  "name": null,
+  "texts": [],
+  "files": [
+   "Robot Navigation Visualization 2"
+  ],
+  "count": 7,
+  "children": 6
+ },
+ {
+  "sig": "364e8a3b",
+  "name": null,
+  "texts": [],
+  "files": [
+   "Robot Navigation Visualization 2"
+  ],
+  "count": 7,
+  "children": 6
+ },
+ {
+  "sig": "236a45b7",
+  "name": null,
+  "texts": [],
+  "files": [
+   "JudgeFlow Overview"
+  ],
+  "count": 6,
+  "children": 4
+ },
+ {
+  "sig": "b89937de",
+  "name": null,
+  "texts": [],
+  "files": [
+   "Robot Navigation Visualization 2"
+  ],
+  "count": 6,
+  "children": 6
+ },
+ {
+  "sig": "3c1fd622",
+  "name": null,
+  "texts": [],
+  "files": [
+   "JudgeFlow Overview"
+  ],
+  "count": 5,
+  "children": 2
+ },
+ {
+  "sig": "47f47413",
+  "name": null,
+  "texts": [],
+  "files": [
+   "Robot Navigation Visualization 2"
+  ],
+  "count": 5,
+  "children": 6
+ },
+ {
+  "sig": "4e15dd52",
+  "name": null,
+  "texts": [],
+  "files": [
+   "Robot Navigation Visualization 2"
+  ],
+  "count": 5,
+  "children": 6
+ },
+ {
+  "sig": "8ea25ffc",
+  "name": null,
+  "texts": [],
+  "files": [
+   "Robot Navigation Visualization 2"
+  ],
+  "count": 5,
+  "children": 6
+ },
+ {
+  "sig": "a2446ad4",
+  "name": null,
+  "texts": [],
+  "files": [
+   "Robot Navigation Visualization 2"
+  ],
+  "count": 5,
+  "children": 6
+ },
+ {
+  "sig": "d50f2d9a",
+  "name": null,
+  "texts": [],
+  "files": [
+   "Robot Navigation Visualization 2"
+  ],
+  "count": 5,
+  "children": 6
+ },
+ {
+  "sig": "d76bfe31",
+  "name": null,
+  "texts": [],
+  "files": [
+   "Robot Navigation Visualization 2"
+  ],
+  "count": 5,
+  "children": 6
+ },
+ {
+  "sig": "ffafe614",
+  "name": null,
+  "texts": [],
+  "files": [
+   "Robot Navigation Visualization 2"
+  ],
+  "count": 5,
+  "children": 6
+ },
+ {
+  "sig": "1465ad3e",
+  "name": "Group",
+  "texts": [],
+  "files": [
+   "McDonals Overview"
+  ],
+  "count": 4,
+  "children": 5
+ },
+ {
+  "sig": "17c0f507",
+  "name": null,
+  "texts": [],
+  "files": [
+   "JudgeFlow Overview"
+  ],
+  "count": 4,
+  "children": 2
+ },
+ {
+  "sig": "2bbd82f8",
+  "name": null,
+  "texts": [],
+  "files": [
+   "GraphSplineNetsRebuttal"
+  ],
+  "count": 4,
+  "children": 2
+ },
+ {
+  "sig": "2ecf80c4",
+  "name": "Alkalinity",
+  "texts": [],
+  "files": [
+   "WaterResearch"
+  ],
+  "count": 4,
+  "children": 2
+ },
+ {
+  "sig": "484b4db4",
+  "name": null,
+  "texts": [],
+  "files": [
+   "Robot Navigation Visualization 2"
+  ],
+  "count": 4,
+  "children": 6
+ },
+ {
+  "sig": "52229329",
+  "name": null,
+  "texts": [],
+  "files": [
+   "GraphSplineNetsRebuttal"
+  ],
+  "count": 4,
+  "children": 2
+ },
+ {
+  "sig": "62b1a3c0",
+  "name": null,
+  "texts": [],
+  "files": [
+   "Robot Navigation Visualization 2"
+  ],
+  "count": 4,
+  "children": 6
+ },
+ {
+  "sig": "6bd8e91e",
+  "name": null,
+  "texts": [],
+  "files": [
+   "JudgeFlow Overview"
+  ],
+  "count": 4,
+  "children": 2
+ },
+ {
+  "sig": "001954bd",
+  "name": null,
+  "texts": [],
+  "files": [
+   "Robot Navigation Visualization 2"
+  ],
+  "count": 3,
+  "children": 6
+ },
+ {
+  "sig": "059a5cac",
+  "name": null,
+  "texts": [
+   "P"
+  ],
+  "files": [
+   "AutoResearch Copilot"
+  ],
+  "count": 3,
+  "children": 2
+ },
+ {
+  "sig": "2b9e1eea",
+  "name": null,
+  "texts": [],
+  "files": [
+   "Trace Studio Logo"
+  ],
+  "count": 3,
+  "children": 12
+ },
+ {
+  "sig": "3c57c54b",
+  "name": null,
+  "texts": [],
+  "files": [
+   "Robot Navigation Visualization 2"
+  ],
+  "count": 3,
+  "children": 6
+ },
+ {
+  "sig": "47f7f094",
+  "name": null,
+  "texts": [],
+  "files": [
+   "Robot Navigation Visualization 2"
+  ],
+  "count": 3,
+  "children": 6
+ },
+ {
+  "sig": "6ebdbf8d",
+  "name": null,
+  "texts": [
+   "M"
+  ],
+  "files": [
+   "AutoResearch Copilot"
+  ],
+  "count": 3,
+  "children": 2
+ },
+ {
+  "sig": "7e354692",
+  "name": null,
+  "texts": [],
+  "files": [
+   "JudgeFlow Overview"
+  ],
+  "count": 3,
+  "children": 2
+ },
+ {
+  "sig": "ad12bfe5",
+  "name": null,
+  "texts": [],
+  "files": [
+   "JudgeFlow Overview"
+  ],
+  "count": 3,
+  "children": 2
+ },
+ {
+  "sig": "ae9e29d9",
+  "name": null,
+  "texts": [],
+  "files": [
+   "Robot Navigation Visualization 2"
+  ],
+  "count": 3,
+  "children": 6
+ },
+ {
+  "sig": "cc1dd567",
+  "name": null,
+  "texts": [],
+  "files": [
+   "Robot Navigation Visualization 2"
+  ],
+  "count": 3,
+  "children": 6
+ },
+ {
+  "sig": "db48ffa3",
+  "name": "Colorbar-GT",
+  "texts": [
+   "1.0",
+   "0.8",
+   "0.6",
+   "0.4",
+   "0.2",
+   "0"
+  ],
+  "files": [
+   "GraphSplineNetsRebuttal"
+  ],
+  "count": 3,
+  "children": 7
+ },
+ {
+  "sig": "f1af7bac",
+  "name": null,
+  "texts": [],
+  "files": [
+   "JudgeFlow Overview"
+  ],
+  "count": 3,
+  "children": 2
+ },
+ {
+  "sig": "fb9fdc2a",
+  "name": null,
+  "texts": [],
+  "files": [
+   "Robot Navigation Visualization 2"
+  ],
+  "count": 3,
+  "children": 6
+ },
+ {
+  "sig": "0c700338",
+  "name": null,
+  "texts": [],
+  "files": [
+   "Robot Navigation Visualization 2"
+  ],
+  "count": 2,
+  "children": 6
+ },
+ {
+  "sig": "0e91810d",
+  "name": null,
+  "texts": [],
+  "files": [
+   "Trace Studio Logo"
+  ],
+  "count": 2,
+  "children": 12
+ },
+ {
+  "sig": "13d1ff0f",
+  "name": null,
+  "texts": [],
+  "files": [
+   "JudgeFlow Overview"
+  ],
+  "count": 2,
+  "children": 2
+ },
+ {
+  "sig": "2a339af8",
+  "name": "ColorbarError-NoAd",
+  "texts": [
+   "1.0",
+   "0.8",
+   "0.6",
+   "0.4",
+   "0.2",
+   "0"
+  ],
+  "files": [
+   "GraphSplineNetsRebuttal"
+  ],
+  "count": 2,
+  "children": 7
+ },
+ {
+  "sig": "2eceeb73",
+  "name": null,
+  "texts": [],
+  "files": [
+   "Robot Navigation Visualization 2"
+  ],
+  "count": 2,
+  "children": 6
+ },
+ {
+  "sig": "32e247e8",
+  "name": null,
+  "texts": [],
+  "files": [
+   "Trace Studio Logo"
+  ],
+  "count": 2,
+  "children": 8
+ },
+ {
+  "sig": "501dfb7b",
+  "name": "Group",
+  "texts": [],
+  "files": [
+   "McDonals Overview"
+  ],
+  "count": 2,
+  "children": 5
+ },
+ {
+  "sig": "54efdb7b",
+  "name": "Prediction",
+  "texts": [
+   "Prediction"
+  ],
+  "files": [
+   "Robot Navigation Overview Illustration"
+  ],
+  "count": 2,
+  "children": 9
+ },
+ {
+  "sig": "799b6870",
+  "name": null,
+  "texts": [],
+  "files": [
+   "JudgeFlow Overview"
+  ],
+  "count": 2,
+  "children": 3
+ },
+ {
+  "sig": "7afd0db7",
+  "name": "RH Attention",
+  "texts": [],
+  "files": [
+   "Robot Navigation Overview Illustration"
+  ],
+  "count": 2,
+  "children": 43
+ },
+ {
+  "sig": "9004f7c6",
+  "name": "History",
+  "texts": [
+   "History"
+  ],
+  "files": [
+   "Robot Navigation Overview Illustration"
+  ],
+  "count": 2,
+  "children": 9
+ },
+ {
+  "sig": "9ee11365",
+  "name": "Group",
+  "texts": [],
+  "files": [
+   "McDonals Overview"
+  ],
+  "count": 2,
+  "children": 5
+ },
+ {
+  "sig": "a83c65cc",
+  "name": null,
+  "texts": [],
+  "files": [
+   "JudgeFlow Overview"
+  ],
+  "count": 2,
+  "children": 2
+ },
+ {
+  "sig": "a89580bd",
+  "name": "HH Attention",
+  "texts": [],
+  "files": [
+   "Robot Navigation Overview Illustration"
+  ],
+  "count": 2,
+  "children": 43
+ },
+ {
+  "sig": "baea4957",
+  "name": null,
+  "texts": [],
+  "files": [
+   "Robot Navigation Visualization 2"
+  ],
+  "count": 2,
+  "children": 6
+ },
+ {
+  "sig": "cbc3572f",
+  "name": null,
+  "texts": [],
+  "files": [
+   "Robot Navigation Visualization 2"
+  ],
+  "count": 2,
+  "children": 6
+ },
+ {
+  "sig": "e688085f",
+  "name": null,
+  "texts": [],
+  "files": [
+   "Robot Navigation Visualization 2"
+  ],
+  "count": 2,
+  "children": 6
+ },
+ {
+  "sig": "e7773e47",
+  "name": null,
+  "texts": [],
+  "files": [
+   "JudgeFlow Overview"
+  ],
+  "count": 2,
+  "children": 2
+ },
+ {
+  "sig": "f91a7476",
+  "name": null,
+  "texts": [],
+  "files": [
+   "Robot Navigation Visualization 2"
+  ],
+  "count": 2,
+  "children": 6
+ },
+ {
+  "sig": "03a4b3d8",
+  "name": "Flow Rate",
+  "texts": [
+   "…",
+   "…",
+   "Flow Rate"
+  ],
+  "files": [
+   "WaterResearch"
+  ],
+  "count": 1,
+  "children": 20
+ },
+ {
+  "sig": "11600bf7",
+  "name": "GRU",
+  "texts": [],
+  "files": [
+   "Chemosphere Overview"
+  ],
+  "count": 1,
+  "children": 21
+ },
+ {
+  "sig": "127e043a",
+  "name": "EvolveHyperGraph",
+  "texts": [
+   "EvolveHyperGraph"
+  ],
+  "files": [
+   "Robot Navigation Overview Illustration"
+  ],
+  "count": 1,
+  "children": 19
+ },
+ {
+  "sig": "24515e78",
+  "name": "Graph1",
+  "texts": [],
+  "files": [
+   "WaterResearch"
+  ],
+  "count": 1,
+  "children": 14
+ },
+ {
+  "sig": "2f3b0748",
+  "name": "MLR",
+  "texts": [],
+  "files": [
+   "WaterResearch"
+  ],
+  "count": 1,
+  "children": 12
+ },
+ {
+  "sig": "2f606ab5",
+  "name": "Group",
+  "texts": [],
+  "files": [
+   "McDonals Overview"
+  ],
+  "count": 1,
+  "children": 5
+ },
+ {
+  "sig": "367cc55a",
+  "name": "GRU",
+  "texts": [],
+  "files": [
+   "Chemosphere Overview"
+  ],
+  "count": 1,
+  "children": 21
+ },
+ {
+  "sig": "3cf97e65",
+  "name": "MLR",
+  "texts": [
+   "MLR"
+  ],
+  "files": [
+   "WaterResearch"
+  ],
+  "count": 1,
+  "children": 14
+ },
+ {
+  "sig": "40287341",
+  "name": "nv",
+  "texts": [],
+  "files": [
+   "GraphSplineNetsRebuttal"
+  ],
+  "count": 1,
+  "children": 6
+ },
+ {
+  "sig": "45f3bf1b",
+  "name": "pH",
+  "texts": [
+   "…",
+   "…",
+   "pH"
+  ],
+  "files": [
+   "WaterResearch"
+  ],
+  "count": 1,
+  "children": 19
+ },
+ {
+  "sig": "4cf81c52",
+  "name": "minigru",
+  "texts": [],
+  "files": [
+   "WaterResearch"
+  ],
+  "count": 1,
+  "children": 3
+ },
+ {
+  "sig": "4e409741",
+  "name": "MLP",
+  "texts": [],
+  "files": [
+   "WaterResearch"
+  ],
+  "count": 1,
+  "children": 58
+ },
+ {
+  "sig": "55cebb5d",
+  "name": "Group",
+  "texts": [],
+  "files": [
+   "McDonals Overview"
+  ],
+  "count": 1,
+  "children": 5
+ },
+ {
+  "sig": "5689f927",
+  "name": "Turbidity",
+  "texts": [
+   "…",
+   "…",
+   "Turbidity"
+  ],
+  "files": [
+   "WaterResearch"
+  ],
+  "count": 1,
+  "children": 19
+ },
+ {
+  "sig": "59066b50",
+  "name": "EvolveHyperGraph",
+  "texts": [
+   "Trajectory Predictor"
+  ],
+  "files": [
+   "Robot Navigation Overview Illustration"
+  ],
+  "count": 1,
+  "children": 19
+ },
+ {
+  "sig": "5a932269",
+  "name": "GRU",
+  "texts": [],
+  "files": [
+   "Chemosphere Overview"
+  ],
+  "count": 1,
+  "children": 21
+ },
+ {
+  "sig": "62d5cc7a",
+  "name": "GRU",
+  "texts": [],
+  "files": [
+   "Chemosphere Overview"
+  ],
+  "count": 1,
+  "children": 21
+ },
+ {
+  "sig": "66035fd3",
+  "name": "Group",
+  "texts": [],
+  "files": [
+   "McDonals Overview"
+  ],
+  "count": 1,
+  "children": 5
+ },
+ {
+  "sig": "6947ad49",
+  "name": "GRU",
+  "texts": [],
+  "files": [
+   "Chemosphere Overview"
+  ],
+  "count": 1,
+  "children": 21
+ },
+ {
+  "sig": "6feedf22",
+  "name": "Graph2",
+  "texts": [],
+  "files": [
+   "WaterResearch"
+  ],
+  "count": 1,
+  "children": 14
+ },
+ {
+  "sig": "71f47839",
+  "name": "GRU",
+  "texts": [],
+  "files": [
+   "WaterResearch"
+  ],
+  "count": 1,
+  "children": 22
+ },
+ {
+  "sig": "7379b74e",
+  "name": "ColorbarError-NoAd",
+  "texts": [
+   "1.0",
+   "0.8",
+   "0.6",
+   "0.4",
+   "0.2",
+   "0"
+  ],
+  "files": [
+   "GraphSplineNetsRebuttal"
+  ],
+  "count": 1,
+  "children": 7
+ },
+ {
+  "sig": "7d76c840",
+  "name": "upgraph",
+  "texts": [],
+  "files": [
+   "WaterResearch"
+  ],
+  "count": 1,
+  "children": 15
+ },
+ {
+  "sig": "88973715",
+  "name": "downgraph",
+  "texts": [],
+  "files": [
+   "WaterResearch"
+  ],
+  "count": 1,
+  "children": 15
+ },
+ {
+  "sig": "98807549",
+  "name": "Tempreture",
+  "texts": [
+   "Tempreture"
+  ],
+  "files": [
+   "WaterResearch"
+  ],
+  "count": 1,
+  "children": 3
+ },
+ {
+  "sig": "a1ed118e",
+  "name": "LSTM",
+  "texts": [],
+  "files": [
+   "WaterResearch"
+  ],
+  "count": 1,
+  "children": 24
+ },
+ {
+  "sig": "a7cedac3",
+  "name": "wv1",
+  "texts": [],
+  "files": [
+   "GraphSplineNetsRebuttal"
+  ],
+  "count": 1,
+  "children": 5
+ },
+ {
+  "sig": "bfdabc7e",
+  "name": "Group",
+  "texts": [],
+  "files": [
+   "McDonals Overview"
+  ],
+  "count": 1,
+  "children": 5
+ },
+ {
+  "sig": "c3ea145f",
+  "name": "wv2",
+  "texts": [],
+  "files": [
+   "GraphSplineNetsRebuttal"
+  ],
+  "count": 1,
+  "children": 7
+ },
+ {
+  "sig": "c8c9f251",
+  "name": "GRU",
+  "texts": [],
+  "files": [
+   "Chemosphere Overview"
+  ],
+  "count": 1,
+  "children": 21
+ },
+ {
+  "sig": "ce9f1e2b",
+  "name": "Group",
+  "texts": [],
+  "files": [
+   "McDonals Overview"
+  ],
+  "count": 1,
+  "children": 5
+ },
+ {
+  "sig": "d2a4f08c",
+  "name": "GRU",
+  "texts": [
+   "GRU"
+  ],
+  "files": [
+   "WaterResearch"
+  ],
+  "count": 1,
+  "children": 24
+ },
+ {
+  "sig": "d6bf3604",
+  "name": "Graph1",
+  "texts": [],
+  "files": [
+   "WaterResearch"
+  ],
+  "count": 1,
+  "children": 14
+ },
+ {
+  "sig": "d77a1bea",
+  "name": "LSTM",
+  "texts": [
+   "LSTM"
+  ],
+  "files": [
+   "WaterResearch"
+  ],
+  "count": 1,
+  "children": 26
+ },
+ {
+  "sig": "d9918d6e",
+  "name": "Group",
+  "texts": [],
+  "files": [
+   "McDonals Overview"
+  ],
+  "count": 1,
+  "children": 5
+ },
+ {
+  "sig": "dfd23396",
+  "name": "EC",
+  "texts": [
+   "Electrical Conductivity"
+  ],
+  "files": [
+   "WaterResearch"
+  ],
+  "count": 1,
+  "children": 3
+ },
+ {
+  "sig": "dfdf2930",
+  "name": "Colorbar-GT",
+  "texts": [
+   "1.0",
+   "0.8",
+   "0.6",
+   "0.4",
+   "0.2",
+   "0"
+  ],
+  "files": [
+   "GraphSplineNetsRebuttal"
+  ],
+  "count": 1,
+  "children": 7
+ },
+ {
+  "sig": "e3be4b11",
+  "name": "GAMTF",
+  "texts": [
+   "GAMTF"
+  ],
+  "files": [
+   "WaterResearch"
+  ],
+  "count": 1,
+  "children": 51
+ },
+ {
+  "sig": "ece1bf45",
+  "name": "Right Graph",
+  "texts": [
+   "…"
+  ],
+  "files": [
+   "Graph OOD Overview"
+  ],
+  "count": 1,
+  "children": 14
+ },
+ {
+  "sig": "f8dbb692",
+  "name": "our",
+  "texts": [],
+  "files": [
+   "WaterResearch"
+  ],
+  "count": 1,
+  "children": 49
+ },
+ {
+  "sig": "fd6d7670",
+  "name": "Graph2",
+  "texts": [],
+  "files": [
+   "WaterResearch"
+  ],
+  "count": 1,
+  "children": 14
+ },
+ {
+  "sig": "ff84aaac",
+  "name": "GRU",
+  "texts": [],
+  "files": [
+   "Chemosphere Overview"
+  ],
+  "count": 1,
+  "children": 21
+ }
+]

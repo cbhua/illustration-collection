@@ -1,0 +1,92 @@
+# ---------------------------------------------------------------------------
+# soft — the 2026 evolution of the style (AutoResearch Copilot, Water Research
+# LLM, ERPO, DivEval, AAAI CrowdSPH).
+#
+# Solid pastel fills with *desaturated* strokes instead of crayon@10 %,
+# Maple Mono (Light) as the main label font, bigger drawing scale (~1.6x crayon),
+# rounder boxes, darker grey filled arrows.
+# ---------------------------------------------------------------------------
+name: soft
+description: >
+  Pastel solid fills (#EAF5FF ...) with muted strokes (#8AAAC9 ...); text in the dark
+  crayon of the hue or grey.  Maple Mono NF CN Light for labels, LM Sans bold coloured
+  titles, rounded boxes (r 8-10), #797979 filled arrows, dashed = pattern 1.
+author: Chuanbo Hua
+
+fonts:
+  sans: LMSans10-Regular
+  mono: MapleMono-NF-CN-Light
+  mono_regular: MapleMono-NF-CN-Regular
+  serif: CMUSerif-Roman
+  cjk: MapleMono-NF-CN-Light     # Maple Mono NF CN ships CJK glyphs
+
+default_font: mono               # labels are Maple Mono Light; container titles stay LM Sans (bold)
+
+sizes:
+  title: 16
+  heading: 14
+  label: 14
+  small: 12
+  tiny: 10
+
+text:
+  primary: "#424242"
+  secondary: "#797979"
+  dim: "#5E5E5E"
+  muted: "#A9A9A9"
+  strong: "#000000"
+
+palette:
+  blue:   {fill: "#EAF5FF", stroke: "#8AAAC9", text: "#005493"}
+  purple: {fill: "#F5EBFF", stroke: "#AA8ECA", text: "#531B93"}
+  green:  {fill: "#EEFFEB", stroke: "#94C78D", text: "#008F00"}
+  yellow: {fill: "#FFFFEC", stroke: "#C9C88F", text: "#929000"}
+  orange: {fill: "#FFF4EA", stroke: "#CAA989", text: "#945200"}
+  red:    {fill: "#FFEBE9", stroke: "#CD8D86", text: "#941100"}
+  teal:   {fill: "#E2F6F1", stroke: "#7FC7B1", text: "#00A170"}
+  lime:   {fill: "#F2FBE3", stroke: "#A9C98A", text: "#4F8F00"}
+  gray:   {fill: "#EBEBEB", stroke: "#A9A9A9", text: "#797979"}
+  silver: {fill: "#F6F6F6", stroke: "#C0C0C0", text: "#797979"}
+  white:  {fill: "#FFFFFF", stroke: "#A9A9A9", text: "#424242"}
+  dark:   {fill: "#CCCCCC", stroke: "#797979", text: "#424242"}
+  ffn:    {fill: "#D9F3FC", stroke: "#A9A9A9", text: "#424242"}
+  norm:   {fill: "#F8F9DB", stroke: "#A9A9A9", text: "#424242"}
+  attn:   {fill: "#FFF0D9", stroke: "#A9A9A9", text: "#424242"}
+  block:  {fill: "#F7F7F7", stroke: "#A9A9A9", text: "#424242"}
+
+icon_color: stroke            # solid icons use the muted stroke colour (EvoNav Motivation)
+
+alpha:
+  light: 1.0
+  medium: 1.0
+  strong: 1.0
+
+components:
+  box:          {tone: light, stroke_width: 1, radius: 8, pad_x: 10, pad_y: 5, size: label, text: secondary}
+  card:         {tone: light, stroke_width: 1, radius: 10, pad_x: 12, pad_y: 6, size: label, text: secondary}
+  container:    {fill: "#FFFFFF", stroke_width: 1, radius: 5, pad: 12, title_size: title,
+                 title_bold: true, title_gap: 4, title_pos: top}
+  panel:        {fill: "#FFFFFF", stroke_width: 1, radius: 5, pad: 8, title_size: label,
+                 title_gap: 3, title_pos: top, color: white}
+  tag:          {font: mono, size: small, radius: 4, pad_x: 5, pad_y: 1, stroke_width: 1, color: gray}
+  chip:         {font: mono, size: small, radius: 0, stroke_width: 1}
+  note:         {size: small, color: secondary}
+  frame:        {fill: "#FFFFFF", stroke: "#797979", stroke_width: 1, radius: 0}
+
+line:
+  color: "#797979"
+  width: 1.0
+  head: FilledArrow
+  head_scale: 0.8
+  corner_radius: 5
+  dash_pattern: 1
+  label_size: small
+
+spacing:
+  gap: 24
+  gap_small: 10
+  gap_large: 40
+  container_pad: 12
+
+canvas:
+  margin: 16

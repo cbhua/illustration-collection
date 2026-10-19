@@ -1,1 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
 .DS_Store
+*.graffle.tmp
+figures/_template_check/
+sources/

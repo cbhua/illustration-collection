@@ -1,0 +1,93 @@
+# ---------------------------------------------------------------------------
+# crayon — Chuanbo's flagship paper-figure style (2024 – 2026)
+#
+# Distilled from 120 OmniGraffle files (see style/corpus_stats.json and
+# docs/style-guide.md).  Reference figures: RouteFinder Overview, USPR Overview,
+# CAMP Illustration, HADES Illustration, ReEvo Overview, JudgeFlow Overview.
+#
+# Units are points at *paper scale*: a full-width figure is ~500-1100 pt wide,
+# labels are 8 pt, container titles 10 pt.
+# ---------------------------------------------------------------------------
+name: crayon
+description: >
+  macOS "crayon" colours. Element fill = bright crayon at 10 % opacity (20 % for
+  emphasis), stroke and text = the dark crayon of the same hue. Containers are
+  white panels with a dark-crayon outline and a coloured title centred above.
+  Grey connectors with small stick arrows, LM Sans text, Monaco for code/tags.
+author: Chuanbo Hua
+
+fonts:
+  sans: LMSans10-Regular        # Latin Modern Sans 10 — 70 % of all text in the corpus
+  mono: Monaco                  # tags, code, variable names (2nd most used)
+  serif: CMUSerif-Roman         # math-like labels (real math -> d.math())
+  cjk: PingFangSC-Regular
+
+sizes:                          # pt
+  title: 12                     # figure / sub-figure titles
+  heading: 10                   # container titles ("Encoder", "Decoder")
+  label: 8                      # box labels and annotations
+  small: 7                      # mono tags, dense detail, legends
+  tiny: 6
+
+text:
+  primary: "#424242"            # Tungsten
+  secondary: "#797979"          # Steel  — default annotation colour
+  dim: "#5E5E5E"                # Iron
+  muted: "#A9A9A9"              # Aluminum
+  strong: "#000000"
+
+# Each hue: `base` is the bright crayon used (with alpha) as fill, `dark` is the
+# Mac crayon used for stroke + text.  Resolved roles: fill / stroke / text.
+palette:
+  blue:   {base: "#0096FF", dark: "#005493"}   # Aqua / Ocean   (most used)
+  red:    {base: "#FF2600", dark: "#941100"}   # Maraschino / Cayenne
+  purple: {base: "#9437FF", dark: "#531B93"}   # Grape / Eggplant
+  green:  {base: "#00F900", dark: "#008F00"}   # Spring / Clover
+  yellow: {base: "#FFFB00", dark: "#929000"}   # Lemon / Asparagus
+  orange: {base: "#FF9300", dark: "#945200"}   # Tangerine / Mocha
+  teal:   {base: "#00FA92", dark: "#009051"}   # Sea Foam / Moss
+  lime:   {base: "#8EFA00", dark: "#4F8F00"}   # Lime / Fern
+  gray:   {fill: "#EBEBEB", stroke: "#A9A9A9", text: "#797979"}   # Mercury / Aluminum
+  silver: {fill: "#EBEBEB", stroke: "#C0C0C0", text: "#797979"}   # Mercury / Magnesium
+  white:  {fill: "#FFFFFF", stroke: "#A9A9A9", text: "#424242"}
+  dark:   {fill: "#D6D6D6", stroke: "#808080", text: "#424242"}
+  # transformer-block motif (RouteFinder Transformer Structure, LLM Squeeze)
+  ffn:    {fill: "#B5E9FA", stroke: "#A9A9A9", text: "#424242"}
+  norm:   {fill: "#F2F3B7", stroke: "#A9A9A9", text: "#424242"}
+  attn:   {fill: "#FFE2B3", stroke: "#A9A9A9", text: "#424242"}
+  block:  {fill: "#EBEBEB", alpha: 0.25, stroke: "#A9A9A9", text: "#424242"}
+
+alpha:
+  light: 0.1                    # default element fill
+  medium: 0.2                   # emphasised element / "ours"
+  strong: 0.5
+
+components:
+  box:          {tone: light, stroke_width: 0.8, radius: 0, pad_x: 6, pad_y: 3, size: label, text: dark}
+  card:         {tone: light, stroke_width: 0.8, radius: 4, pad_x: 8, pad_y: 4, size: label, text: dark}
+  container:    {fill: "#FFFFFF", stroke_width: 0.9, radius: 6, pad: 10, title_size: heading,
+                 title_gap: 3, title_pos: top}
+  panel:        {fill: "#FFFFFF", stroke_width: 0.9, radius: 4, pad: 6, title_size: label,
+                 title_gap: 2, title_pos: top, color: gray}
+  tag:          {font: mono, size: small, radius: 2, pad_x: 3, pad_y: 1, stroke_width: 0.75, color: gray}
+  chip:         {font: mono, size: small, radius: 0, stroke_width: 0.8}   # 9x9 cells / bars
+  note:         {size: label, color: secondary}
+  frame:        {fill: "#FFFFFF", stroke: "#A9A9A9", stroke_width: 1, radius: 0}   # plot / instance frames
+
+line:
+  color: "#A9A9A9"              # Aluminum — 35 % of all connectors
+  width: 1.0
+  head: StickArrow              # StickArrow (open) is the most common head
+  head_scale: 0.75
+  corner_radius: 5              # rounded orthogonal elbows
+  dash_pattern: 24              # dashed connectors / dashed containers
+  label_size: small
+
+spacing:
+  gap: 16                       # between sibling elements
+  gap_small: 6
+  gap_large: 28
+  container_pad: 10
+
+canvas:
+  margin: 12

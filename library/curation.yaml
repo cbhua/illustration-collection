@@ -1,0 +1,188 @@
+# Hand curation of reusable bitmap/PDF assets found in the corpus.
+# key = first 8 hex chars of the asset's sha1  ->  library path (without extension).
+# Anything not listed here (and reused/small enough) lands in images/_candidates/
+# for review when the library is rebuilt.  Use `drop` for things never to keep.
+keep:
+  # ---- LLM providers ----------------------------------------------------
+  5efef26d: logo/llm/anthropic
+  b52be07a: logo/llm/gemini
+  565b8fed: logo/llm/openai
+  # ---- organisations / projects -----------------------------------------
+  ad221512: logo/org/kaist
+  c7079205: logo/org/stanford
+  109463fc: logo/org/ai4co
+  69238691: logo/org/rl4co
+  3b75fa59: logo/org/omelet
+  bfb4abab: logo/org/arundo
+  35032005: logo/org/swirl-orange-purple
+  56fa64bc: logo/org/ducktalk
+  2ee09231: logo/project/toast-ai-agent
+  # ---- frameworks ----------------------------------------------------------
+  f9f36468: logo/framework/pytorch
+  c03c8f73: logo/framework/pytorch-lightning
+  160c27c6: logo/framework/torchrl
+  0e0e33d0: logo/framework/hydra
+  728ead1e: logo/framework/prophet
+  5e540992: logo/framework/python-blocks
+  # ---- venues --------------------------------------------------------------
+  93932017: logo/venue/neurips
+  875e8a27: logo/venue/aamas-2025
+  # ---- line icons (AWS-architecture style, colour) --------------------------
+  e8bf1d27: icon/service/data-collection
+  69a31cf9: icon/service/data-preprocess
+  78a5f7c3: icon/service/data-lake
+  f4c7b8f4: icon/service/document-list
+  0814360d: icon/service/metrics-bars
+  a9747ac4: icon/service/dashboard
+  89120fd0: icon/service/factory-chip
+  58e183d9: icon/service/water-utility
+  a113f1d2: icon/service/maintenance-clock
+  7f1889da: icon/service/dev-environment
+  07998311: icon/service/backup-cycle
+  # ---- filled square service tiles ----------------------------------------
+  ceab0f0a: icon/tile/deep-learning
+  2419d55c: icon/tile/analytics-chart
+  c2f70742: icon/tile/workflow-loop
+  4bb8d436: icon/tile/regression
+  d5c214b6: icon/tile/detector
+  # ---- misc pictograms -----------------------------------------------------
+  69cc13f2: icon/gauge-low
+  3a17fb32: icon/gauge-high
+  e14291c4: icon/sign-slope
+  fc30f2c8: icon/sign-weight-limit
+  # ---- avatars / characters ------------------------------------------------
+  c5d15086: avatar/pear
+  edfc98aa: avatar/duck
+  89612936: photo/sample-cat
+  # ---- generic textures for scientific illustrations ------------------------
+  3206b441: texture/scalar-field-1
+  93905e38: texture/scalar-field-2
+  30999111: texture/scalar-field-3
+  41feaab0: texture/scalar-field-4
+  a1806be8: texture/scalar-field-t0
+  c163c552: texture/scalar-field-t1
+  beb91233: texture/scalar-field-t2
+  57f56396: texture/scalar-field-t3
+  79933b19: texture/scalar-field-rainbow
+  44caa8d0: texture/loss-landscape-contour
+  8a06ed91: texture/signal-low-frequency
+  2a479bc5: texture/signal-mid-frequency
+  2dc5ffea: texture/signal-high-frequency
+  c0354fc2: texture/signal-full
+  13f92bdf: texture/turbulence-1
+  4ebdb329: texture/turbulence-2
+drop:
+  - d46035da   # game sprites
+  - 71868657
+  - 9c029f87
+  - 46859c2c   # paper-specific plot crops / photos / legends
+  - ce215d04
+  - f0139c0d
+  - 2d4ac4e8
+  - 904b96bf
+  - ac04dceb
+  - d8a35d3d
+  - 704c506e
+  - 1b87082f
+  - 33294b51
+  - c06da629
+  - 984636d8
+  - 969b6096
+  - 3b8543a9
+  - c2e6aa15
+  - 42fec142
+  - 39e05071
+  - 10b2277a
+  - b02ddbd3
+  - 72dba1c1   # personal QR codes
+  - 53278d94
+  - ebd673ce
+  - 5ea92a50
+  - 023ae913
+
+# Reusable components (OmniGraffle groups) by structural signature -> snippet name.
+# Only these are exported to library/snippets/; everything else is listed in
+# snippets/_candidates.json for review.
+snippets:
+  # model "app tiles" (soft colour card + white glyph on coloured square)
+  0919ad7e: tile-mlp
+  3ae489cc: tile-lstm
+  7d01632e: tile-mlr
+  dc3c68f6: tile-gamtf
+  f50ab5a8: tile-gru
+  # outlined model cards with schematic
+  0a8510cb: card-lstm-cell
+  741da271: card-gru-cell
+  5f06e88b: card-linear-regression
+  71f123cc: card-random-forest
+  db8bb35a: card-gamtf
+  77272448: gru-cell-schematic
+  3874052c: gru-cell-equations
+  # graph / network motifs
+  9e8607a0: graph-k4-blue
+  9f2529b5: graph-k4-orange-weighted
+  c820f073: graph-k4-h-nodes
+  d6fb5c3b: mlp-dense-network
+  19edd9ca: binary-tree-right
+  65032e1b: binary-tree-left
+  31137d2a: graph-k5-mini
+  37c1b2cf: hypergraph-blobs
+  # operators
+  3de4c52e: op-sigma-circle
+  633eed29: op-times-box
+  db70034a: op-plus-box
+  # attention / sequence rows (USPR)
+  1ea492f1: attention-row-client-vehicle
+  8c4e445f: attention-row-client-client
+  f976e881: attention-row-vehicle-vehicle
+  4ed34ea1: attention-row-vehicle-client
+  # time-series / data
+  0cb8b725: conv1d-over-timeseries
+  2d6fc169: timeseries-strip
+  29a1125e: token-stack-history
+  51aa061c: token-stack-prediction
+  32bae959: qa-dataset-table
+  # legends
+  62086d90: legend-depot-customers
+  6758ce1a: legend-customers-arrows
+
+# Semantic tags for vector icons (searched by `ogkit library search`).
+icon_tags:
+  memory: chip cpu llm model algorithm heuristic program processor ai
+  message: chat prompt text llm response conversation
+  settings: gear config configuration parameters tune environment
+  forum: discussion agents dialogue multi-agent chat
+  cancel: fail error wrong reject close x
+  select-all: dashed box selection region proxy model
+  directions-car: car vehicle agent fleet
+  create: pencil edit write generate mutation
+  local-shipping: truck delivery vehicle logistics
+  insert-chart: chart bar plot results score evaluation metrics
+  assessment: chart bar plot results score evaluation metrics report
+  dns: server database storage features rules
+  place: pin location depot customer map marker
+  bug-report: bug debug error test
+  been-here: check badge verified pass
+  live-help: question help unknown query
+  done-all: double check pass success all
+  check-circle: check pass success correct ok
+  chat: chat message prompt reflection
+  person: user human expert people
+  history: clock time history step
+  wb-incandescent: bulb idea insight reflection
+  rate-review: review feedback critique judge
+  view-agenda: stack layers list rows
+  checkbox: check pass test success
+  thumb-up: like good positive reward
+  room: pin location place
+  thumb-down: dislike bad negative penalty
+  storage: stack layers server rows
+  event-note: calendar schedule plan note
+  view-module: grid matrix cells
+  cached: refresh loop iterate cycle update
+  insert-comment: comment note feedback
+  android: robot agent bot
+  subject: text document lines description
+  supervisor-account: group team users people
+  apps: grid apps modules
+  view-day: layers rows stack

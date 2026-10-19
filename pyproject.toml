@@ -1,0 +1,15 @@
+[project]
+name = "ogkit"
+version = "0.1.0"
+description = "Read, render, analyse and generate editable OmniGraffle 7 documents in a personal style"
+requires-python = ">=3.10"
+dependencies = ["pillow", "cairosvg", "pyyaml", "pypdfium2"]
+
+[project.scripts]
+ogkit = "ogkit.__main__:main"
+
+[tool.setuptools]
+packages = ["ogkit"]
+
+[tool.setuptools.package-data]
+ogkit = ["templates/*"]

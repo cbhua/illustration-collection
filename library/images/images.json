@@ -1,0 +1,894 @@
+{
+ "avatar/duck": {
+  "file": "avatar/duck.png",
+  "category": "avatar",
+  "uses": 4,
+  "files": [
+   "Camel Up UI",
+   "Splendar UI"
+  ],
+  "display_size": [
+   90.0,
+   90.0
+  ],
+  "name": "duck",
+  "hash": "edfc98aaae4e"
+ },
+ "avatar/pear": {
+  "file": "avatar/pear.png",
+  "category": "avatar",
+  "uses": 6,
+  "files": [
+   "Camel Up UI",
+   "Splendar UI"
+  ],
+  "display_size": [
+   90.0,
+   90.0
+  ],
+  "name": "pear",
+  "hash": "c5d15086b2c5"
+ },
+ "icon/gauge-high": {
+  "file": "icon/gauge-high.png",
+  "category": "icon",
+  "uses": 17,
+  "files": [
+   "BuildEvo Overview",
+   "ReEvo Overview",
+   "VRPAgent Overview"
+  ],
+  "display_size": [
+   15.0,
+   7.5
+  ],
+  "name": "gauge-high",
+  "hash": "3a17fb32f784"
+ },
+ "icon/gauge-low": {
+  "file": "icon/gauge-low.png",
+  "category": "icon",
+  "uses": 27,
+  "files": [
+   "BuildEvo Overview",
+   "ReEvo Overview",
+   "ReEvo Reflect Example",
+   "VRPAgent Overview"
+  ],
+  "display_size": [
+   15.0,
+   7.5
+  ],
+  "name": "gauge-low",
+  "hash": "69cc13f278f4"
+ },
+ "icon/service/backup-cycle": {
+  "file": "icon/service/backup-cycle.pdf",
+  "category": "icon",
+  "uses": 1,
+  "files": [
+   "Chiplet Placement"
+  ],
+  "display_size": [
+   30.0,
+   30.0
+  ],
+  "name": "backup-cycle",
+  "hash": "07998311e745"
+ },
+ "icon/service/dashboard": {
+  "file": "icon/service/dashboard.pdf",
+  "category": "icon",
+  "uses": 4,
+  "files": [
+   "Application of AI Overview",
+   "Transformer Time-series Prediction Overall"
+  ],
+  "display_size": [
+   25.0,
+   25.0
+  ],
+  "name": "dashboard",
+  "hash": "a9747ac4784f"
+ },
+ "icon/service/data-collection": {
+  "file": "icon/service/data-collection.pdf",
+  "category": "icon",
+  "uses": 11,
+  "files": [
+   "Application of AI Overview",
+   "Chemosphere Overview",
+   "Transformer Time-series Prediction Overall",
+   "Water Research Overview",
+   "WaterResearch"
+  ],
+  "display_size": [
+   50.0,
+   50.0
+  ],
+  "name": "data-collection",
+  "hash": "e8bf1d27140d"
+ },
+ "icon/service/data-lake": {
+  "file": "icon/service/data-lake.pdf",
+  "category": "icon",
+  "uses": 1,
+  "files": [
+   "Transformer Time-series Prediction Overall"
+  ],
+  "display_size": [
+   35.0,
+   35.0
+  ],
+  "name": "data-lake",
+  "hash": "78a5f7c3c137"
+ },
+ "icon/service/data-preprocess": {
+  "file": "icon/service/data-preprocess.pdf",
+  "category": "icon",
+  "uses": 10,
+  "files": [
+   "Chemosphere Overview",
+   "Water Research Overview",
+   "WaterResearch"
+  ],
+  "display_size": [
+   50.1,
+   50.1
+  ],
+  "name": "data-preprocess",
+  "hash": "69a31cf9f837"
+ },
+ "icon/service/dev-environment": {
+  "file": "icon/service/dev-environment.pdf",
+  "category": "icon",
+  "uses": 11,
+  "files": [
+   "Application of AI Overview",
+   "Chemosphere Overview",
+   "Water Research Overview",
+   "WaterResearch"
+  ],
+  "display_size": [
+   50.0,
+   50.0
+  ],
+  "name": "dev-environment",
+  "hash": "7f1889da45d1"
+ },
+ "icon/service/document-list": {
+  "file": "icon/service/document-list.pdf",
+  "category": "icon",
+  "uses": 15,
+  "files": [
+   "Application of AI Overview",
+   "Chemosphere Overview",
+   "Transformer Time-series Prediction Overall",
+   "Water Research Overview",
+   "WaterResearch"
+  ],
+  "display_size": [
+   45.8,
+   45.8
+  ],
+  "name": "document-list",
+  "hash": "f4c7b8f4e86d"
+ },
+ "icon/service/factory-chip": {
+  "file": "icon/service/factory-chip.pdf",
+  "category": "icon",
+  "uses": 4,
+  "files": [
+   "Application of AI Overview",
+   "Transformer Time-series Prediction Overall"
+  ],
+  "display_size": [
+   30.0,
+   30.0
+  ],
+  "name": "factory-chip",
+  "hash": "89120fd03c6a"
+ },
+ "icon/service/maintenance-clock": {
+  "file": "icon/service/maintenance-clock.pdf",
+  "category": "icon",
+  "uses": 1,
+  "files": [
+   "Transformer Time-series Prediction Overall"
+  ],
+  "display_size": [
+   35.0,
+   35.0
+  ],
+  "name": "maintenance-clock",
+  "hash": "a113f1d288ff"
+ },
+ "icon/service/metrics-bars": {
+  "file": "icon/service/metrics-bars.pdf",
+  "category": "icon",
+  "uses": 4,
+  "files": [
+   "Application of AI Overview",
+   "Transformer Time-series Prediction Overall"
+  ],
+  "display_size": [
+   25.0,
+   25.0
+  ],
+  "name": "metrics-bars",
+  "hash": "0814360d5997"
+ },
+ "icon/service/water-utility": {
+  "file": "icon/service/water-utility.pdf",
+  "category": "icon",
+  "uses": 1,
+  "files": [
+   "Transformer Time-series Prediction Overall"
+  ],
+  "display_size": [
+   35.0,
+   35.0
+  ],
+  "name": "water-utility",
+  "hash": "58e183d95cba"
+ },
+ "icon/sign-slope": {
+  "file": "icon/sign-slope.png",
+  "category": "icon",
+  "uses": 3,
+  "files": [
+   "CAMP Examples",
+   "USPR Poster"
+  ],
+  "display_size": [
+   33.1,
+   31.1
+  ],
+  "name": "sign-slope",
+  "hash": "e14291c400f5"
+ },
+ "icon/sign-weight-limit": {
+  "file": "icon/sign-weight-limit.png",
+  "category": "icon",
+  "uses": 3,
+  "files": [
+   "CAMP Examples",
+   "USPR Poster"
+  ],
+  "display_size": [
+   33.4,
+   54.6
+  ],
+  "name": "sign-weight-limit",
+  "hash": "fc30f2c8a428"
+ },
+ "icon/tile/analytics-chart": {
+  "file": "icon/tile/analytics-chart.pdf",
+  "category": "icon",
+  "uses": 2,
+  "files": [
+   "Water Research Overview",
+   "WaterResearch"
+  ],
+  "display_size": [
+   50.0,
+   50.0
+  ],
+  "name": "analytics-chart",
+  "hash": "2419d55c4435"
+ },
+ "icon/tile/deep-learning": {
+  "file": "icon/tile/deep-learning.pdf",
+  "category": "icon",
+  "uses": 2,
+  "files": [
+   "Water Research Overview",
+   "WaterResearch"
+  ],
+  "display_size": [
+   50.0,
+   50.0
+  ],
+  "name": "deep-learning",
+  "hash": "ceab0f0a8937"
+ },
+ "icon/tile/detector": {
+  "file": "icon/tile/detector.pdf",
+  "category": "icon",
+  "uses": 2,
+  "files": [
+   "Water Research Overview",
+   "WaterResearch"
+  ],
+  "display_size": [
+   50.0,
+   50.0
+  ],
+  "name": "detector",
+  "hash": "d5c214b64511"
+ },
+ "icon/tile/regression": {
+  "file": "icon/tile/regression.pdf",
+  "category": "icon",
+  "uses": 2,
+  "files": [
+   "Water Research Overview",
+   "WaterResearch"
+  ],
+  "display_size": [
+   50.0,
+   50.0
+  ],
+  "name": "regression",
+  "hash": "4bb8d436b3c1"
+ },
+ "icon/tile/workflow-loop": {
+  "file": "icon/tile/workflow-loop.pdf",
+  "category": "icon",
+  "uses": 2,
+  "files": [
+   "Water Research Overview",
+   "WaterResearch"
+  ],
+  "display_size": [
+   50.0,
+   50.0
+  ],
+  "name": "workflow-loop",
+  "hash": "c2f707422e56"
+ },
+ "logo/framework/hydra": {
+  "file": "logo/framework/hydra.png",
+  "category": "logo",
+  "uses": 4,
+  "files": [
+   "RL4CO Overall",
+   "RL4CO Policy 2024 NeurIPS"
+  ],
+  "display_size": [
+   55.5,
+   15.9
+  ],
+  "name": "hydra",
+  "hash": "0e0e33d06b93"
+ },
+ "logo/framework/prophet": {
+  "file": "logo/framework/prophet.png",
+  "category": "logo",
+  "uses": 2,
+  "files": [
+   "Application of AI Overview"
+  ],
+  "display_size": [
+   106.0,
+   30.3
+  ],
+  "name": "prophet",
+  "hash": "728ead1eaca4"
+ },
+ "logo/framework/python-blocks": {
+  "file": "logo/framework/python-blocks.png",
+  "category": "logo",
+  "uses": 1,
+  "files": [
+   "RL4CO Policy 2024 NeurIPS"
+  ],
+  "display_size": [
+   38.6,
+   34.0
+  ],
+  "name": "python-blocks",
+  "hash": "5e540992fc0e"
+ },
+ "logo/framework/pytorch": {
+  "file": "logo/framework/pytorch.png",
+  "category": "logo",
+  "uses": 3,
+  "files": [
+   "RL4CO Overall"
+  ],
+  "display_size": [
+   63.8,
+   16.8
+  ],
+  "name": "pytorch",
+  "hash": "f9f36468b6ae"
+ },
+ "logo/framework/pytorch-lightning": {
+  "file": "logo/framework/pytorch-lightning.png",
+  "category": "logo",
+  "uses": 4,
+  "files": [
+   "RL4CO Overall",
+   "RL4CO Policy 2024 NeurIPS"
+  ],
+  "display_size": [
+   111.7,
+   20.2
+  ],
+  "name": "pytorch-lightning",
+  "hash": "c03c8f7332c5"
+ },
+ "logo/framework/torchrl": {
+  "file": "logo/framework/torchrl.png",
+  "category": "logo",
+  "uses": 5,
+  "files": [
+   "RL4CO Overall",
+   "RL4CO Policy 2024 NeurIPS"
+  ],
+  "display_size": [
+   55.5,
+   10.9
+  ],
+  "name": "torchrl",
+  "hash": "160c27c65bc0"
+ },
+ "logo/llm/anthropic": {
+  "file": "logo/llm/anthropic.png",
+  "category": "logo",
+  "uses": 1,
+  "files": [
+   "JudgeFlow Overview"
+  ],
+  "display_size": [
+   19.0,
+   19.0
+  ],
+  "name": "anthropic",
+  "hash": "5efef26d32d4"
+ },
+ "logo/llm/gemini": {
+  "file": "logo/llm/gemini.png",
+  "category": "logo",
+  "uses": 1,
+  "files": [
+   "JudgeFlow Overview"
+  ],
+  "display_size": [
+   16.9,
+   20.8
+  ],
+  "name": "gemini",
+  "hash": "b52be07a855f"
+ },
+ "logo/llm/openai": {
+  "file": "logo/llm/openai.png",
+  "category": "logo",
+  "uses": 1,
+  "files": [
+   "JudgeFlow Overview"
+  ],
+  "display_size": [
+   16.9,
+   16.9
+  ],
+  "name": "openai",
+  "hash": "565b8fedb77c"
+ },
+ "logo/org/ai4co": {
+  "file": "logo/org/ai4co.png",
+  "category": "logo",
+  "uses": 1,
+  "files": [
+   "USPR Poster"
+  ],
+  "display_size": [
+   114.2,
+   34.7
+  ],
+  "name": "ai4co",
+  "hash": "109463fc17c8"
+ },
+ "logo/org/arundo": {
+  "file": "logo/org/arundo.png",
+  "category": "logo",
+  "uses": 2,
+  "files": [
+   "Application of AI Overview"
+  ],
+  "display_size": [
+   105.1,
+   26.1
+  ],
+  "name": "arundo",
+  "hash": "bfb4abab43d0"
+ },
+ "logo/org/ducktalk": {
+  "file": "logo/org/ducktalk.png",
+  "category": "logo",
+  "uses": 1,
+  "files": [
+   "Ducktalk"
+  ],
+  "display_size": [
+   138.0,
+   30.0
+  ],
+  "name": "ducktalk",
+  "hash": "56fa64bc251c"
+ },
+ "logo/org/kaist": {
+  "file": "logo/org/kaist.png",
+  "category": "logo",
+  "uses": 12,
+  "files": [
+   "AoP-SAM Poster AAAI",
+   "AoP-SAM Poster NeurIPS",
+   "CAMP AAMAS 2025 Poster",
+   "Graph Spline Nets Poster",
+   "RL4CO Poster",
+   "USPR Poster"
+  ],
+  "display_size": [
+   414.9,
+   118.5
+  ],
+  "name": "kaist",
+  "hash": "ad221512be29"
+ },
+ "logo/org/omelet": {
+  "file": "logo/org/omelet.png",
+  "category": "logo",
+  "uses": 3,
+  "files": [
+   "CAMP AAMAS 2025 Poster",
+   "USPR Poster"
+  ],
+  "display_size": [
+   100.1,
+   32.4
+  ],
+  "name": "omelet",
+  "hash": "3b75fa594837"
+ },
+ "logo/org/rl4co": {
+  "file": "logo/org/rl4co.pdf",
+  "category": "logo",
+  "uses": 13,
+  "files": [
+   "AI4CO Homepage News Icon",
+   "RL4CO Poster"
+  ],
+  "display_size": [
+   132.8,
+   112.9
+  ],
+  "name": "rl4co",
+  "hash": "69238691961f"
+ },
+ "logo/org/stanford": {
+  "file": "logo/org/stanford.png",
+  "category": "logo",
+  "uses": 3,
+  "files": [
+   "Graph Spline Nets Poster",
+   "RL4CO Poster"
+  ],
+  "display_size": [
+   420.0,
+   184.1
+  ],
+  "name": "stanford",
+  "hash": "c7079205989d"
+ },
+ "logo/org/swirl-orange-purple": {
+  "file": "logo/org/swirl-orange-purple.png",
+  "category": "logo",
+  "uses": 2,
+  "files": [
+   "Graph Spline Nets Poster"
+  ],
+  "display_size": [
+   111.1,
+   111.1
+  ],
+  "name": "swirl-orange-purple",
+  "hash": "350320056402"
+ },
+ "logo/project/toast-ai-agent": {
+  "file": "logo/project/toast-ai-agent.png",
+  "category": "logo",
+  "uses": 1,
+  "files": [
+   "Omelet AI Agent"
+  ],
+  "display_size": [
+   99.1,
+   123.0
+  ],
+  "name": "toast-ai-agent",
+  "hash": "2ee0923104e5"
+ },
+ "logo/venue/aamas-2025": {
+  "file": "logo/venue/aamas-2025.png",
+  "category": "logo",
+  "uses": 2,
+  "files": [
+   "CAMP AAMAS 2025 Poster"
+  ],
+  "display_size": [
+   134.1,
+   53.6
+  ],
+  "name": "aamas-2025",
+  "hash": "875e8a278632"
+ },
+ "logo/venue/neurips": {
+  "file": "logo/venue/neurips.pdf",
+  "category": "logo",
+  "uses": 4,
+  "files": [
+   "AoP-SAM Poster AAAI",
+   "AoP-SAM Poster NeurIPS",
+   "Graph Spline Nets Poster"
+  ],
+  "display_size": [
+   502.3,
+   225.9
+  ],
+  "name": "neurips",
+  "hash": "93932017afff"
+ },
+ "photo/sample-cat": {
+  "file": "photo/sample-cat.tiff",
+  "category": "photo",
+  "uses": 1,
+  "files": [
+   "Graph OOD Overview"
+  ],
+  "display_size": [
+   91.1,
+   91.1
+  ],
+  "name": "sample-cat",
+  "hash": "89612936f1c0"
+ },
+ "texture/loss-landscape-contour": {
+  "file": "texture/loss-landscape-contour.pdf",
+  "category": "texture",
+  "uses": 4,
+  "files": [
+   "Gradient Evolve Motivation",
+   "TrajEvo CGES"
+  ],
+  "display_size": [
+   165.7,
+   119.7
+  ],
+  "name": "loss-landscape-contour",
+  "hash": "44caa8d09154"
+ },
+ "texture/scalar-field-1": {
+  "file": "texture/scalar-field-1.pdf",
+  "category": "texture",
+  "uses": 7,
+  "files": [
+   "Graph Spline Nets Collocation Illustration",
+   "Graph Spline Nets Overview",
+   "GraphSplineNetsRebuttal",
+   "SplineGraphNets"
+  ],
+  "display_size": [
+   34.0,
+   34.0
+  ],
+  "name": "scalar-field-1",
+  "hash": "3206b441d56a"
+ },
+ "texture/scalar-field-2": {
+  "file": "texture/scalar-field-2.pdf",
+  "category": "texture",
+  "uses": 7,
+  "files": [
+   "Graph Spline Nets Collocation Illustration",
+   "Graph Spline Nets Overview",
+   "GraphSplineNetsRebuttal",
+   "SplineGraphNets"
+  ],
+  "display_size": [
+   34.0,
+   34.0
+  ],
+  "name": "scalar-field-2",
+  "hash": "93905e38c9b0"
+ },
+ "texture/scalar-field-3": {
+  "file": "texture/scalar-field-3.pdf",
+  "category": "texture",
+  "uses": 7,
+  "files": [
+   "Graph Spline Nets Collocation Illustration",
+   "Graph Spline Nets Overview",
+   "GraphSplineNetsRebuttal",
+   "SplineGraphNets"
+  ],
+  "display_size": [
+   34.0,
+   34.0
+  ],
+  "name": "scalar-field-3",
+  "hash": "309991110588"
+ },
+ "texture/scalar-field-4": {
+  "file": "texture/scalar-field-4.pdf",
+  "category": "texture",
+  "uses": 5,
+  "files": [
+   "Graph Spline Nets Overview",
+   "GraphSplineNetsRebuttal",
+   "SplineGraphNets"
+  ],
+  "display_size": [
+   34.0,
+   34.0
+  ],
+  "name": "scalar-field-4",
+  "hash": "41feaab0c442"
+ },
+ "texture/scalar-field-rainbow": {
+  "file": "texture/scalar-field-rainbow.pdf",
+  "category": "texture",
+  "uses": 2,
+  "files": [
+   "Graph Spline Nets Collocation Illustration",
+   "SplineGraphNets"
+  ],
+  "display_size": [
+   45.4,
+   45.0
+  ],
+  "name": "scalar-field-rainbow",
+  "hash": "79933b19864d"
+ },
+ "texture/scalar-field-t0": {
+  "file": "texture/scalar-field-t0.pdf",
+  "category": "texture",
+  "uses": 3,
+  "files": [
+   "Hidden Interpolation",
+   "Hidden Interpolation Overview"
+  ],
+  "display_size": [
+   62.0,
+   62.0
+  ],
+  "name": "scalar-field-t0",
+  "hash": "a1806be8e146"
+ },
+ "texture/scalar-field-t1": {
+  "file": "texture/scalar-field-t1.pdf",
+  "category": "texture",
+  "uses": 3,
+  "files": [
+   "Hidden Interpolation",
+   "Hidden Interpolation Overview"
+  ],
+  "display_size": [
+   62.0,
+   62.0
+  ],
+  "name": "scalar-field-t1",
+  "hash": "c163c5528832"
+ },
+ "texture/scalar-field-t2": {
+  "file": "texture/scalar-field-t2.pdf",
+  "category": "texture",
+  "uses": 4,
+  "files": [
+   "Hidden Interpolation",
+   "Hidden Interpolation Overview"
+  ],
+  "display_size": [
+   62.0,
+   62.0
+  ],
+  "name": "scalar-field-t2",
+  "hash": "beb912332a8e"
+ },
+ "texture/scalar-field-t3": {
+  "file": "texture/scalar-field-t3.pdf",
+  "category": "texture",
+  "uses": 3,
+  "files": [
+   "Hidden Interpolation",
+   "Hidden Interpolation Overview"
+  ],
+  "display_size": [
+   62.0,
+   62.0
+  ],
+  "name": "scalar-field-t3",
+  "hash": "57f563963d45"
+ },
+ "texture/signal-full": {
+  "file": "texture/signal-full.pdf",
+  "category": "texture",
+  "uses": 3,
+  "files": [
+   "Anomaly Detection",
+   "Anomaly Detection Overview"
+  ],
+  "display_size": [
+   706.8,
+   60.2
+  ],
+  "name": "signal-full",
+  "hash": "c0354fc20573"
+ },
+ "texture/signal-high-frequency": {
+  "file": "texture/signal-high-frequency.pdf",
+  "category": "texture",
+  "uses": 3,
+  "files": [
+   "Anomaly Detection",
+   "Anomaly Detection Overview"
+  ],
+  "display_size": [
+   252.4,
+   51.6
+  ],
+  "name": "signal-high-frequency",
+  "hash": "2dc5ffea8a1d"
+ },
+ "texture/signal-low-frequency": {
+  "file": "texture/signal-low-frequency.pdf",
+  "category": "texture",
+  "uses": 3,
+  "files": [
+   "Anomaly Detection",
+   "Anomaly Detection Overview"
+  ],
+  "display_size": [
+   252.4,
+   51.6
+  ],
+  "name": "signal-low-frequency",
+  "hash": "8a06ed914b0b"
+ },
+ "texture/signal-mid-frequency": {
+  "file": "texture/signal-mid-frequency.pdf",
+  "category": "texture",
+  "uses": 3,
+  "files": [
+   "Anomaly Detection",
+   "Anomaly Detection Overview"
+  ],
+  "display_size": [
+   252.4,
+   51.6
+  ],
+  "name": "signal-mid-frequency",
+  "hash": "2a479bc526d7"
+ },
+ "texture/turbulence-1": {
+  "file": "texture/turbulence-1.pdf",
+  "category": "texture",
+  "uses": 2,
+  "files": [
+   "Graph Spline Nets NV Illustration",
+   "GraphSplineNetsRebuttal"
+  ],
+  "display_size": [
+   130.0,
+   130.0
+  ],
+  "name": "turbulence-1",
+  "hash": "13f92bdf8ea0"
+ },
+ "texture/turbulence-2": {
+  "file": "texture/turbulence-2.pdf",
+  "category": "texture",
+  "uses": 2,
+  "files": [
+   "Graph Spline Nets NV Illustration",
+   "GraphSplineNetsRebuttal"
+  ],
+  "display_size": [
+   130.0,
+   130.0
+  ],
+  "name": "turbulence-2",
+  "hash": "4ebdb3290e3d"
+ }
+}

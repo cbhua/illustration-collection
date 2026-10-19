@@ -1,0 +1,1949 @@
+{
+ "AAAI CrowdSPH": {
+  "file": "sources/OmniGraffle/AAAI CrowdSPH.graffle",
+  "thumb": "aaai-crowdsph.jpg",
+  "kind": "illustration",
+  "modified": "2026-07-29",
+  "sheets": [
+   "Catchy Version 1 ",
+   "Catchy Version 2",
+   "Main Version 1",
+   "Main Version 2",
+   "Backup"
+  ],
+  "graphics": 868,
+  "fonts": [
+   "MapleMono-NF-CN-Light",
+   "LMSans10-Regular",
+   "MapleMono-NF-CN-BoldItalic"
+  ]
+ },
+ "AAAI Forecast Crowd Simulation": {
+  "file": "sources/OmniGraffle/AAAI Forecast Crowd Simulation.graffle",
+  "thumb": "aaai-forecast-crowd-simulation.jpg",
+  "kind": "illustration",
+  "modified": "2026-07-29",
+  "sheets": [
+   "Main Figure Version 1",
+   "Main Figure Version 2",
+   "Methodology Figure Version 1",
+   "Components"
+  ],
+  "graphics": 955,
+  "fonts": [
+   "LMSans10-Regular",
+   "MapleMono-NF-CN-Light"
+  ]
+ },
+ "AI4CO Blueprint": {
+  "file": "sources/OmniGraffle/AI4CO Blueprint.graffle",
+  "thumb": "ai4co-blueprint.jpg",
+  "kind": "overview/architecture",
+  "modified": "2024-11-11",
+  "sheets": [
+   "RL4CO Structure"
+  ],
+  "graphics": 34,
+  "fonts": [
+   "Monaco",
+   "Helvetica"
+  ]
+ },
+ "AI4CO Homepage News Icon": {
+  "file": "sources/OmniGraffle/AI4CO Homepage News Icon.graffle",
+  "thumb": "ai4co-homepage-news-icon.jpg",
+  "kind": "logo/cover",
+  "modified": "2025-05-30",
+  "sheets": [
+   "KDD",
+   "AI4CO",
+   "RL4CO",
+   "Slack"
+  ],
+  "graphics": 107,
+  "fonts": [
+   "AvenirNext-Medium"
+  ]
+ },
+ "AI4CO Workshop Speakers": {
+  "file": "sources/OmniGraffle/AI4CO Workshop Speakers.graffle",
+  "thumb": "ai4co-workshop-speakers.jpg",
+  "kind": "illustration",
+  "modified": "2025-06-05",
+  "sheets": [
+   "Speakers",
+   "Organizers",
+   "Canvas 3"
+  ],
+  "graphics": 36,
+  "fonts": []
+ },
+ "Agent workflow cheatsheet": {
+  "file": "sources/OmniGraffle/Agent workflow cheatsheet.graffle",
+  "thumb": "agent-workflow-cheatsheet.jpg",
+  "kind": "ui/cheatsheet",
+  "modified": "2026-04-07",
+  "sheets": [
+   "Canvas 1"
+  ],
+  "graphics": 106,
+  "fonts": [
+   "LMSans10-Regular",
+   "MapleMono-NF-CN-Regular"
+  ]
+ },
+ "Anomaly Detection Overview": {
+  "file": "sources/OmniGraffle/Anomaly Detection Overview.graffle",
+  "thumb": "anomaly-detection-overview.jpg",
+  "kind": "overview/architecture",
+  "modified": "2024-02-08",
+  "sheets": [
+   "Version 3"
+  ],
+  "graphics": 68,
+  "fonts": [
+   "TimesNewRomanPSMT",
+   "TimesNewRomanPS-BoldMT",
+   "HelveticaNeue"
+  ]
+ },
+ "Anomaly Detection": {
+  "file": "sources/OmniGraffle/Anomaly Detection.graffle",
+  "thumb": "anomaly-detection.jpg",
+  "kind": "illustration",
+  "modified": "2023-02-18",
+  "sheets": [
+   "Figure 2 Version 3",
+   "Figure 2 Version 2",
+   "Figure 2 Version 1",
+   "Figure 1 Version 2",
+   "Figure 1 Version 1"
+  ],
+  "graphics": 185,
+  "fonts": [
+   "TimesNewRomanPSMT",
+   "TimesNewRomanPS-BoldMT",
+   "HelveticaNeue"
+  ]
+ },
+ "AoP SAM Overview": {
+  "file": "sources/OmniGraffle/AoP SAM Overview.graffle",
+  "thumb": "aop-sam-overview.jpg",
+  "kind": "overview/architecture",
+  "modified": "2025-05-17",
+  "sheets": [
+   "Version 1",
+   "Version 2",
+   "Version 3",
+   "Reference"
+  ],
+  "graphics": 222,
+  "fonts": [
+   "LMSans10-Regular"
+  ]
+ },
+ "AoP-SAM Poster AAAI": {
+  "file": "sources/OmniGraffle/AoP-SAM Poster AAAI.graffle",
+  "thumb": "aop-sam-poster-aaai.jpg",
+  "kind": "poster",
+  "modified": "2025-12-03",
+  "sheets": [
+   "Version 1"
+  ],
+  "graphics": 75,
+  "fonts": [
+   "LMSans10-Regular",
+   "Calibri-Bold",
+   "CourierNewPSMT"
+  ]
+ },
+ "AoP-SAM Poster NeurIPS": {
+  "file": "sources/OmniGraffle/AoP-SAM Poster NeurIPS.graffle",
+  "thumb": "aop-sam-poster-neurips.jpg",
+  "kind": "poster",
+  "modified": "2025-12-03",
+  "sheets": [
+   "Canvas 1"
+  ],
+  "graphics": 58,
+  "fonts": [
+   "LMSans10-Regular",
+   "Calibri-Bold",
+   "Calibri"
+  ]
+ },
+ "Application of AI Model": {
+  "file": "sources/OmniGraffle/Application of AI Model.graffle",
+  "thumb": "application-of-ai-model.jpg",
+  "kind": "overview/architecture",
+  "modified": "2025-04-18",
+  "sheets": [
+   "Version 1",
+   "Reference",
+   "Reference 1"
+  ],
+  "graphics": 725,
+  "fonts": [
+   "LMSans10-Regular",
+   "Monaco"
+  ]
+ },
+ "Application of AI Normalization": {
+  "file": "sources/OmniGraffle/Application of AI Normalization.graffle",
+  "thumb": "application-of-ai-normalization.jpg",
+  "kind": "illustration",
+  "modified": "2024-03-04",
+  "sheets": [
+   "Version 1"
+  ],
+  "graphics": 70,
+  "fonts": [
+   "LMSans10-Regular",
+   "Monaco"
+  ]
+ },
+ "Application of AI Overview": {
+  "file": "sources/OmniGraffle/Application of AI Overview.graffle",
+  "thumb": "application-of-ai-overview.jpg",
+  "kind": "overview/architecture",
+  "modified": "2024-10-08",
+  "sheets": [
+   "Version 1",
+   "Version 2",
+   "Version 3",
+   "Version 4"
+  ],
+  "graphics": 792,
+  "fonts": [
+   "LMSans10-Regular",
+   "Monaco",
+   "PingFangSC-Regular"
+  ]
+ },
+ "AutoResearch Copilot": {
+  "file": "sources/OmniGraffle/AutoResearch Copilot.graffle",
+  "thumb": "autoresearch-copilot.jpg",
+  "kind": "overview/architecture",
+  "modified": "2026-10-01",
+  "sheets": [
+   "Canvas 1"
+  ],
+  "graphics": 74,
+  "fonts": [
+   "MapleMono-NF-CN-LightItalic",
+   "LMSans10-Regular",
+   "MapleMono-NF-CN-Light"
+  ]
+ },
+ "BuildEvo Overview": {
+  "file": "sources/OmniGraffle/BuildEvo Overview.graffle",
+  "thumb": "buildevo-overview.jpg",
+  "kind": "overview/architecture",
+  "modified": "2025-06-01",
+  "sheets": [
+   "Reference",
+   "Version 1"
+  ],
+  "graphics": 174,
+  "fonts": [
+   "Avenir-Book",
+   "Monaco",
+   "LMSans10-Regular"
+  ]
+ },
+ "CAMP AAMAS 2025 Poster": {
+  "file": "sources/OmniGraffle/CAMP AAMAS 2025 Poster.graffle",
+  "thumb": "camp-aamas-2025-poster.jpg",
+  "kind": "poster",
+  "modified": "2026-01-14",
+  "sheets": [
+   "Version 1",
+   "Version 2"
+  ],
+  "graphics": 120,
+  "fonts": [
+   "LMSans10-Regular",
+   "LucidaGrande",
+   "AppleColorEmoji"
+  ]
+ },
+ "CAMP Examples": {
+  "file": "sources/OmniGraffle/CAMP Examples.graffle",
+  "thumb": "camp-examples.jpg",
+  "kind": "illustration",
+  "modified": "2026-01-14",
+  "sheets": [
+   "CAMP1 Version 1",
+   "CAMP2 Version 2",
+   "CAMP2 Version 3",
+   "Backup",
+   "Canvas 5",
+   "Canvas 6"
+  ],
+  "graphics": 237,
+  "fonts": [
+   "Monaco",
+   "LMSans10-Regular"
+  ]
+ },
+ "CAMP Illustration": {
+  "file": "sources/OmniGraffle/CAMP Illustration.graffle",
+  "thumb": "camp-illustration.jpg",
+  "kind": "illustration",
+  "modified": "2025-05-07",
+  "sheets": [
+   "CAMP 1 Version 1",
+   "CAMP1 Version 2",
+   "CAMP2 Version 1",
+   "CAMP2 Version 2",
+   "CAMP2 Version 3",
+   "CAMP2 Version 4"
+  ],
+  "graphics": 2314,
+  "fonts": [
+   "LMSans10-Regular",
+   "Monaco",
+   "Avenir-Book"
+  ]
+ },
+ "CAMP Pareto": {
+  "file": "sources/OmniGraffle/CAMP Pareto.graffle",
+  "thumb": "camp-pareto.jpg",
+  "kind": "plot/visualization",
+  "modified": "2025-04-28",
+  "sheets": [
+   "Canvas 1"
+  ],
+  "graphics": 11,
+  "fonts": []
+ },
+ "CAMP Results Example": {
+  "file": "sources/OmniGraffle/CAMP Results Example.graffle",
+  "thumb": "camp-results-example.jpg",
+  "kind": "plot/visualization",
+  "modified": "2024-10-11",
+  "sheets": [
+   "Canvas 1"
+  ],
+  "graphics": 18,
+  "fonts": [
+   "LMSans10-Regular",
+   "Monaco"
+  ]
+ },
+ "CAMP Visualization Paper": {
+  "file": "sources/OmniGraffle/CAMP Visualization Paper.graffle",
+  "thumb": "camp-visualization-paper.jpg",
+  "kind": "plot/visualization",
+  "modified": "2025-12-20",
+  "sheets": [
+   "Canvas 1"
+  ],
+  "graphics": 12,
+  "fonts": [
+   "CMUSerif-Roman"
+  ]
+ },
+ "CAMP Visualization": {
+  "file": "sources/OmniGraffle/CAMP Visualization.graffle",
+  "thumb": "camp-visualization.jpg",
+  "kind": "plot/visualization",
+  "modified": "2024-12-20",
+  "sheets": [
+   "Canvas 1"
+  ],
+  "graphics": 18,
+  "fonts": [
+   "LMSans10-Regular"
+  ]
+ },
+ "Camel Up UI": {
+  "file": "sources/OmniGraffle/Camel Up UI.graffle",
+  "thumb": "camel-up-ui.jpg",
+  "kind": "ui/cheatsheet",
+  "modified": "2025-12-14",
+  "sheets": [
+   "Canvas 1",
+   "Canvas 2"
+  ],
+  "graphics": 338,
+  "fonts": [
+   "Monaco"
+  ]
+ },
+ "Chemosphere Overview": {
+  "file": "sources/OmniGraffle/Chemosphere Overview.graffle",
+  "thumb": "chemosphere-overview.jpg",
+  "kind": "overview/architecture",
+  "modified": "2024-02-29",
+  "sheets": [
+   "Model Version 1",
+   "Model Version 2",
+   "Overview Version 1",
+   "Overview Version 2",
+   "Overview Version 3",
+   "Overview Version 4",
+   "Overview Version 5",
+   "Overview Version 6"
+  ],
+  "graphics": 1018,
+  "fonts": [
+   "LMSans10-Regular",
+   "Monaco"
+  ]
+ },
+ "Chiplet Placement": {
+  "file": "sources/OmniGraffle/Chiplet Placement.graffle",
+  "thumb": "chiplet-placement.jpg",
+  "kind": "illustration",
+  "modified": "2025-04-18",
+  "sheets": [
+   "Canvas 1"
+  ],
+  "graphics": 750,
+  "fonts": [
+   "LMSans10-Regular",
+   "Monaco"
+  ]
+ },
+ "Claude Usage Demo": {
+  "file": "sources/OmniGraffle/Claude Usage Demo.graffle",
+  "thumb": "claude-usage-demo.jpg",
+  "kind": "ui/cheatsheet",
+  "modified": "2026-05-17",
+  "sheets": [
+   "Canvas 1"
+  ],
+  "graphics": 17,
+  "fonts": [
+   "Avenir-Book",
+   "MapleMono-NF-CN-Light",
+   "CMUSerif-Roman"
+  ]
+ },
+ "CrowdNav Dataset Visualization": {
+  "file": "sources/OmniGraffle/CrowdNav Dataset Visualization.graffle",
+  "thumb": "crowdnav-dataset-visualization.jpg",
+  "kind": "plot/visualization",
+  "modified": "2023-09-03",
+  "sheets": [
+   "Canvas 1",
+   "Canvas 2"
+  ],
+  "graphics": 21,
+  "fonts": []
+ },
+ "DivEval": {
+  "file": "sources/OmniGraffle/DivEval.graffle",
+  "thumb": "diveval.jpg",
+  "kind": "illustration",
+  "modified": "2026-05-07",
+  "sheets": [
+   "Canvas 1",
+   "Canvas 2"
+  ],
+  "graphics": 285,
+  "fonts": [
+   "LMSans10-Regular",
+   "MapleMono-NF-CN-Light",
+   "Menlo-Regular"
+  ]
+ },
+ "DivRoute": {
+  "file": "sources/OmniGraffle/DivRoute.graffle",
+  "thumb": "divroute.jpg",
+  "kind": "illustration",
+  "modified": "2025-04-18",
+  "sheets": [
+   "Canvas 1"
+  ],
+  "graphics": 308,
+  "fonts": [
+   "LMSans10-Regular",
+   "Monaco"
+  ]
+ },
+ "Drift Gege Illustration": {
+  "file": "sources/OmniGraffle/Drift Gege Illustration.graffle",
+  "thumb": "drift-gege-illustration.jpg",
+  "kind": "illustration",
+  "modified": "2024-12-04",
+  "sheets": [
+   "Canvas 1"
+  ],
+  "graphics": 20,
+  "fonts": [
+   "SourceHanSerifSC-Regular"
+  ]
+ },
+ "Ducktalk": {
+  "file": "sources/OmniGraffle/Ducktalk.graffle",
+  "thumb": "ducktalk.jpg",
+  "kind": "illustration",
+  "modified": "2026-01-05",
+  "sheets": [
+   "Canvas 1"
+  ],
+  "graphics": 2,
+  "fonts": []
+ },
+ "ERPO": {
+  "file": "sources/OmniGraffle/ERPO.graffle",
+  "thumb": "erpo.jpg",
+  "kind": "illustration",
+  "modified": "2026-09-29",
+  "sheets": [
+   "Part 1",
+   "Part 2",
+   "Part 3"
+  ],
+  "graphics": 110,
+  "fonts": [
+   "MapleMono-NF-CN-Light",
+   "LMSans10-Regular"
+  ]
+ },
+ "EvoNav Motivation": {
+  "file": "sources/OmniGraffle/EvoNav Motivation.graffle",
+  "thumb": "evonav-motivation.jpg",
+  "kind": "motivation/comparison",
+  "modified": "2025-10-07",
+  "sheets": [
+   "Figure 1 Version 1",
+   "Figure 1 Version 2",
+   "Figure 2 Version 1",
+   "Figure 2 Version 2",
+   "Materials"
+  ],
+  "graphics": 412,
+  "fonts": [
+   "FiraCode-Regular",
+   "LMSans10-Regular",
+   "CMUSerif-Roman"
+  ]
+ },
+ "EvoNav Overview": {
+  "file": "sources/OmniGraffle/EvoNav Overview.graffle",
+  "thumb": "evonav-overview.jpg",
+  "kind": "overview/architecture",
+  "modified": "2025-10-09",
+  "sheets": [
+   "Version 1",
+   "Version 2",
+   "Materials"
+  ],
+  "graphics": 553,
+  "fonts": [
+   "LMSans10-Regular",
+   "FiraCode-Regular"
+  ]
+ },
+ "EvolveGradient": {
+  "file": "sources/OmniGraffle/EvolveGradient.graffle",
+  "thumb": "evolvegradient.jpg",
+  "kind": "illustration",
+  "modified": "2026-01-13",
+  "sheets": [
+   "Evolve Method",
+   "Gradient Method"
+  ],
+  "graphics": 84,
+  "fonts": [
+   "CMUSerif-Roman"
+  ]
+ },
+ "EvolveHyperGraph Main Illustration": {
+  "file": "sources/OmniGraffle/EvolveHyperGraph Main Illustration.graffle",
+  "thumb": "evolvehypergraph-main-illustration.jpg",
+  "kind": "illustration",
+  "modified": "2023-12-26",
+  "sheets": [
+   "Canvas 1"
+  ],
+  "graphics": 13,
+  "fonts": [
+   "ArialMT"
+  ]
+ },
+ "EvolveHyperGraph2": {
+  "file": "sources/OmniGraffle/EvolveHyperGraph2.graffle",
+  "thumb": "evolvehypergraph2.jpg",
+  "kind": "illustration",
+  "modified": "2023-07-09",
+  "sheets": [
+   "Canvas 1"
+  ],
+  "graphics": 23,
+  "fonts": []
+ },
+ "FeedbackCO Illustration": {
+  "file": "sources/OmniGraffle/FeedbackCO Illustration.graffle",
+  "thumb": "feedbackco-illustration.jpg",
+  "kind": "illustration",
+  "modified": "2025-06-23",
+  "sheets": [
+   "Canvas 1",
+   "Canvas 5",
+   "Preference Matrix",
+   "Preference Matrix 1",
+   "Canvas 2",
+   "Canvas 3",
+   "Canvas 4",
+   "References"
+  ],
+  "graphics": 309,
+  "fonts": [
+   "Monaco",
+   "LMSans10-Regular"
+  ]
+ },
+ "FeedbackCO Overview": {
+  "file": "sources/OmniGraffle/FeedbackCO Overview.graffle",
+  "thumb": "feedbackco-overview.jpg",
+  "kind": "overview/architecture",
+  "modified": "2025-04-21",
+  "sheets": [
+   "Canvas 1",
+   "Canvas 2"
+  ],
+  "graphics": 147,
+  "fonts": [
+   "LMSans10-Regular",
+   "Monaco"
+  ]
+ },
+ "Foundation Model": {
+  "file": "sources/OmniGraffle/Foundation Model.graffle",
+  "thumb": "foundation-model.jpg",
+  "kind": "overview/architecture",
+  "modified": "2023-11-09",
+  "sheets": [
+   "Environment",
+   "Multi Objective"
+  ],
+  "graphics": 59,
+  "fonts": [
+   "FiraCode-Regular",
+   "LMSans10-Regular"
+  ]
+ },
+ "GAMTF Overview": {
+  "file": "sources/OmniGraffle/GAMTF Overview.graffle",
+  "thumb": "gamtf-overview.jpg",
+  "kind": "overview/architecture",
+  "modified": "2023-10-15",
+  "sheets": [
+   "Version 1"
+  ],
+  "graphics": 295,
+  "fonts": [
+   "TimesNewRomanPSMT"
+  ]
+ },
+ "Gradient Evolve Motivation": {
+  "file": "sources/OmniGraffle/Gradient Evolve Motivation.graffle",
+  "thumb": "gradient-evolve-motivation.jpg",
+  "kind": "motivation/comparison",
+  "modified": "2026-01-14",
+  "sheets": [
+   "Version 1"
+  ],
+  "graphics": 37,
+  "fonts": [
+   "MapleMono-NF-CN-Light"
+  ]
+ },
+ "Graph OOD Overview": {
+  "file": "sources/OmniGraffle/Graph OOD Overview.graffle",
+  "thumb": "graph-ood-overview.jpg",
+  "kind": "overview/architecture",
+  "modified": "2023-10-15",
+  "sheets": [
+   "Version 3",
+   "Version 2",
+   "Version 1"
+  ],
+  "graphics": 331,
+  "fonts": [
+   "LMSans10-Regular",
+   "TimesNewRomanPS-ItalicMT",
+   "STSongti-SC-Regular"
+  ]
+ },
+ "Graph Spline Nets Collocation Illustration": {
+  "file": "sources/OmniGraffle/Graph Spline Nets Collocation Illustration.graffle",
+  "thumb": "graph-spline-nets-collocation-illustration.jpg",
+  "kind": "illustration",
+  "modified": "2023-10-15",
+  "sheets": [
+   "Version 1"
+  ],
+  "graphics": 102,
+  "fonts": [
+   "TimesNewRomanPS-ItalicMT"
+  ]
+ },
+ "Graph Spline Nets MPNN Overview": {
+  "file": "sources/OmniGraffle/Graph Spline Nets MPNN Overview.graffle",
+  "thumb": "graph-spline-nets-mpnn-overview.jpg",
+  "kind": "overview/architecture",
+  "modified": "2023-10-15",
+  "sheets": [
+   "Version 1"
+  ],
+  "graphics": 107,
+  "fonts": [
+   "TimesNewRomanPSMT"
+  ]
+ },
+ "Graph Spline Nets NV Illustration": {
+  "file": "sources/OmniGraffle/Graph Spline Nets NV Illustration.graffle",
+  "thumb": "graph-spline-nets-nv-illustration.jpg",
+  "kind": "illustration",
+  "modified": "2023-10-15",
+  "sheets": [
+   "Version 1"
+  ],
+  "graphics": 58,
+  "fonts": [
+   "Avenir-Book"
+  ]
+ },
+ "Graph Spline Nets Overview": {
+  "file": "sources/OmniGraffle/Graph Spline Nets Overview.graffle",
+  "thumb": "graph-spline-nets-overview.jpg",
+  "kind": "overview/architecture",
+  "modified": "2025-04-18",
+  "sheets": [
+   "Version 1",
+   "Version 2"
+  ],
+  "graphics": 462,
+  "fonts": [
+   "TimesNewRomanPSMT",
+   "TimesNewRomanPS-ItalicMT"
+  ]
+ },
+ "Graph Spline Nets Poster": {
+  "file": "sources/OmniGraffle/Graph Spline Nets Poster.graffle",
+  "thumb": "graph-spline-nets-poster.jpg",
+  "kind": "poster",
+  "modified": "2023-12-05",
+  "sheets": [
+   "Horizontal",
+   "Vertical"
+  ],
+  "graphics": 192,
+  "fonts": [
+   "LMSans10-Regular",
+   "CourierNewPSMT",
+   "Calibri"
+  ]
+ },
+ "GraphSplineNetsRebuttal": {
+  "file": "sources/OmniGraffle/GraphSplineNetsRebuttal.graffle",
+  "thumb": "graphsplinenetsrebuttal.jpg",
+  "kind": "motivation/comparison",
+  "modified": "2023-08-10",
+  "sheets": [
+   "Canvas 1",
+   "Canvas 2",
+   "Canvas 3",
+   "Canvas 4",
+   "Canvas 5",
+   "Canvas 6",
+   "Canvas 7",
+   "Canvas 8",
+   "Canvas 9",
+   "Canvas 10",
+   "Canvas 11",
+   "Canvas 12"
+  ],
+  "graphics": 602,
+  "fonts": [
+   "Avenir-Book"
+  ]
+ },
+ "HADES Illustration": {
+  "file": "sources/OmniGraffle/HADES Illustration.graffle",
+  "thumb": "hades-illustration.jpg",
+  "kind": "illustration",
+  "modified": "2026-05-06",
+  "sheets": [
+   "Deconstruction v1",
+   "Deconstruction v2",
+   "IPE v1",
+   "IPE v2",
+   "CPE v1",
+   "CPE v2",
+   "Rethinking Catchy",
+   "Rethinking Catchy 1"
+  ],
+  "graphics": 694,
+  "fonts": [
+   "LMSans10-Regular",
+   "Monaco"
+  ]
+ },
+ "HADES Overview": {
+  "file": "sources/OmniGraffle/HADES Overview.graffle",
+  "thumb": "hades-overview.jpg",
+  "kind": "overview/architecture",
+  "modified": "2025-09-25",
+  "sheets": [
+   "Version 1",
+   "Version 2"
+  ],
+  "graphics": 634,
+  "fonts": [
+   "FiraCode-Light",
+   "LMSans10-Regular",
+   "FiraCode-Regular"
+  ]
+ },
+ "HADES Statistic": {
+  "file": "sources/OmniGraffle/HADES Statistic.graffle",
+  "thumb": "hades-statistic.jpg",
+  "kind": "plot/visualization",
+  "modified": "2025-11-21",
+  "sheets": [
+   "Version 1",
+   "Version 2",
+   "Appendix"
+  ],
+  "graphics": 113,
+  "fonts": []
+ },
+ "HiTree": {
+  "file": "sources/OmniGraffle/HiTree.graffle",
+  "thumb": "hitree.jpg",
+  "kind": "illustration",
+  "modified": "2026-01-14",
+  "sheets": [
+   "Canvas 1",
+   "Canvas 2",
+   "Canvas 3",
+   "Canvas 5",
+   "Canvas 6",
+   "Canvas 7",
+   "Canvas 8"
+  ],
+  "graphics": 194,
+  "fonts": [
+   "CMUSerif-Roman"
+  ]
+ },
+ "Hidden Interpolation Overview": {
+  "file": "sources/OmniGraffle/Hidden Interpolation Overview.graffle",
+  "thumb": "hidden-interpolation-overview.jpg",
+  "kind": "overview/architecture",
+  "modified": "2023-10-15",
+  "sheets": [
+   "Time Version 2"
+  ],
+  "graphics": 37,
+  "fonts": [
+   "TimesNewRomanPSMT"
+  ]
+ },
+ "Hidden Interpolation": {
+  "file": "sources/OmniGraffle/Hidden Interpolation.graffle",
+  "thumb": "hidden-interpolation.jpg",
+  "kind": "illustration",
+  "modified": "2022-11-05",
+  "sheets": [
+   "Time Version 1",
+   "Time Version 2",
+   "Space Version 1"
+  ],
+  "graphics": 80,
+  "fonts": [
+   "TimesNewRomanPSMT"
+  ]
+ },
+ "JudgeFlow Overview": {
+  "file": "sources/OmniGraffle/JudgeFlow Overview.graffle",
+  "thumb": "judgeflow-overview.jpg",
+  "kind": "overview/architecture",
+  "modified": "2026-08-25",
+  "sheets": [
+   "Overview Version 1",
+   "Overview Version 2",
+   "Overview Version 3",
+   "Catchy 1 Version 1",
+   "Overview Version 4",
+   "Overview Version 5",
+   "Catchy 2 Version 1",
+   "Case Study Version 1"
+  ],
+  "graphics": 1371,
+  "fonts": [
+   "LMSans10-Regular",
+   "HelveticaNeue",
+   "Monaco"
+  ]
+ },
+ "LLM Squeeze": {
+  "file": "sources/OmniGraffle/LLM Squeeze.graffle",
+  "thumb": "llm-squeeze.jpg",
+  "kind": "illustration",
+  "modified": "2024-10-30",
+  "sheets": [
+   "Version 1",
+   "Version 2"
+  ],
+  "graphics": 110,
+  "fonts": [
+   "LMSans10-Regular"
+  ]
+ },
+ "McDonals Overview": {
+  "file": "sources/OmniGraffle/McDonals Overview.graffle",
+  "thumb": "mcdonals-overview.jpg",
+  "kind": "overview/architecture",
+  "modified": "2025-10-07",
+  "sheets": [
+   "Canvas 1"
+  ],
+  "graphics": 97,
+  "fonts": []
+ },
+ "Multi-agent RL for Physical Control Illustration": {
+  "file": "sources/OmniGraffle/Multi-agent RL for Physical Control Illustration.graffle",
+  "thumb": "multi-agent-rl-for-physical-control-illustration.jpg",
+  "kind": "overview/architecture",
+  "modified": "2023-07-23",
+  "sheets": [
+   "Multi-agent control",
+   "Partial-observed control",
+   "High-dimension onctrol",
+   "Research plan"
+  ],
+  "graphics": 69,
+  "fonts": [
+   "Avenir-BookOblique"
+  ]
+ },
+ "Multi-agent RouteFinder": {
+  "file": "sources/OmniGraffle/Multi-agent RouteFinder.graffle",
+  "thumb": "multi-agent-routefinder.jpg",
+  "kind": "overview/architecture",
+  "modified": "2026-05-07",
+  "sheets": [
+   "Canvas 1"
+  ],
+  "graphics": 244,
+  "fonts": [
+   "LMSans10-Regular",
+   "MapleMono-NF-CN-Thin"
+  ]
+ },
+ "OMELET AI Agents Compare": {
+  "file": "sources/OmniGraffle/OMELET AI Agents Compare.graffle",
+  "thumb": "omelet-ai-agents-compare.jpg",
+  "kind": "motivation/comparison",
+  "modified": "2024-12-26",
+  "sheets": [
+   "Canvas 1"
+  ],
+  "graphics": 8,
+  "fonts": [
+   "HelveticaNeue"
+  ]
+ },
+ "Omeleet Docs": {
+  "file": "sources/OmniGraffle/Omeleet Docs.graffle",
+  "thumb": "omeleet-docs.jpg",
+  "kind": "illustration",
+  "modified": "2024-07-15",
+  "sheets": [
+   "Reference",
+   "VRP"
+  ],
+  "graphics": 260,
+  "fonts": [
+   "LMSans10-Regular",
+   "Monaco"
+  ]
+ },
+ "Omelet AI Agent Process": {
+  "file": "sources/OmniGraffle/Omelet AI Agent Process.graffle",
+  "thumb": "omelet-ai-agent-process.jpg",
+  "kind": "overview/architecture",
+  "modified": "2024-12-03",
+  "sheets": [
+   "All in One",
+   "Step by Step"
+  ],
+  "graphics": 104,
+  "fonts": [
+   "LMSans10-Regular",
+   "Monaco"
+  ]
+ },
+ "Omelet AI Agent": {
+  "file": "sources/OmniGraffle/Omelet AI Agent.graffle",
+  "thumb": "omelet-ai-agent.jpg",
+  "kind": "overview/architecture",
+  "modified": "2025-04-08",
+  "sheets": [
+   "Canvas 1"
+  ],
+  "graphics": 37,
+  "fonts": [
+   "FiraCode-Regular",
+   "LMSans10-Regular",
+   "AppleColorEmoji"
+  ]
+ },
+ "OpenPDP Illustration": {
+  "file": "sources/OmniGraffle/OpenPDP Illustration.graffle",
+  "thumb": "openpdp-illustration.jpg",
+  "kind": "illustration",
+  "modified": "2023-11-17",
+  "sheets": [
+   "Case 1",
+   "Case 2",
+   "Case 3",
+   "Reward Function"
+  ],
+  "graphics": 109,
+  "fonts": [
+   "LMSans10-Regular"
+  ]
+ },
+ "Our Book Cover": {
+  "file": "sources/OmniGraffle/Our Book Cover.graffle",
+  "thumb": "our-book-cover.jpg",
+  "kind": "logo/cover",
+  "modified": "2025-10-10",
+  "sheets": [
+   "Canvas 1",
+   "Canvas 2"
+  ],
+  "graphics": 5,
+  "fonts": [
+   "SourceHanSerifSC-Regular",
+   "SourceHanSerifSC-Light"
+  ]
+ },
+ "PARCO Illustration": {
+  "file": "sources/OmniGraffle/PARCO Illustration.graffle",
+  "thumb": "parco-illustration.jpg",
+  "kind": "illustration",
+  "modified": "2025-05-13",
+  "sheets": [
+   "Version 1",
+   "Version 2",
+   "Version 3",
+   "Version 4",
+   "Version 5",
+   "Version 6",
+   "Version 7"
+  ],
+  "graphics": 1272,
+  "fonts": [
+   "LMSans10-Regular"
+  ]
+ },
+ "PARCO Overall": {
+  "file": "sources/OmniGraffle/PARCO Overall.graffle",
+  "thumb": "parco-overall.jpg",
+  "kind": "overview/architecture",
+  "modified": "2025-04-18",
+  "sheets": [
+   "Reference",
+   "Version 1",
+   "Version 2",
+   "Version 3",
+   "Version 4",
+   "Version 5"
+  ],
+  "graphics": 1207,
+  "fonts": [
+   "LMSans10-Regular",
+   "Monaco",
+   "Avenir-Book"
+  ]
+ },
+ "PILLM Overview": {
+  "file": "sources/OmniGraffle/PILLM Overview.graffle",
+  "thumb": "pillm-overview.jpg",
+  "kind": "overview/architecture",
+  "modified": "2025-09-22",
+  "sheets": [
+   "Canvas 1",
+   "Canvas 2"
+  ],
+  "graphics": 360,
+  "fonts": [
+   "LMSans10-Regular",
+   "Monaco",
+   "Avenir-Book"
+  ]
+ },
+ "PolyNet GLOP Illustration": {
+  "file": "sources/OmniGraffle/PolyNet GLOP Illustration.graffle",
+  "thumb": "polynet-glop-illustration.jpg",
+  "kind": "illustration",
+  "modified": "2024-04-02",
+  "sheets": [
+   "Reference",
+   "Inherent Symmetry Version 1",
+   "Reward Maximizing Single Decoder",
+   "Reward Maximizing Multi Decoder",
+   "GLOP"
+  ],
+  "graphics": 680,
+  "fonts": [
+   "LMSans10-Regular",
+   "Monaco"
+  ]
+ },
+ "PyVRP & RL4CO": {
+  "file": "sources/OmniGraffle/PyVRP & RL4CO.graffle",
+  "thumb": "pyvrp-rl4co.jpg",
+  "kind": "illustration",
+  "modified": "2024-04-24",
+  "sheets": [
+   "Canvas 1"
+  ],
+  "graphics": 14,
+  "fonts": [
+   "Monaco"
+  ]
+ },
+ "RL4CO Overall": {
+  "file": "sources/OmniGraffle/RL4CO Overall.graffle",
+  "thumb": "rl4co-overall.jpg",
+  "kind": "overview/architecture",
+  "modified": "2024-06-05",
+  "sheets": [
+   "Version 1",
+   "Version 2",
+   "Version 3"
+  ],
+  "graphics": 151,
+  "fonts": [
+   "LMSans10-Regular"
+  ]
+ },
+ "RL4CO Plot Book": {
+  "file": "sources/OmniGraffle/RL4CO Plot Book.graffle",
+  "thumb": "rl4co-plot-book.jpg",
+  "kind": "plot/visualization",
+  "modified": "2025-02-24",
+  "sheets": [
+   "Canvas 1"
+  ],
+  "graphics": 62,
+  "fonts": [
+   "CMUSerif-Roman"
+  ]
+ },
+ "RL4CO Policy 2024 NeurIPS": {
+  "file": "sources/OmniGraffle/RL4CO Policy 2024 NeurIPS.graffle",
+  "thumb": "rl4co-policy-2024-neurips.jpg",
+  "kind": "overview/architecture",
+  "modified": "2025-05-12",
+  "sheets": [
+   "Overall Version 1",
+   "Context Version 1",
+   "Context Version 2",
+   "Context Version 3",
+   "Policy Version 1",
+   "Policy Version 2",
+   "Policy Version 3",
+   "Policy Version 4",
+   "Sampling Version 1",
+   "Infer Version 1",
+   "Infer Version 2",
+   "Infer Version 3",
+   "Pip Version 1",
+   "Trash Bin"
+  ],
+  "graphics": 1673,
+  "fonts": [
+   "Avenir-Book",
+   "Monaco",
+   "LMSans10-Regular"
+  ]
+ },
+ "RL4CO Policy": {
+  "file": "sources/OmniGraffle/RL4CO Policy.graffle",
+  "thumb": "rl4co-policy.jpg",
+  "kind": "overview/architecture",
+  "modified": "2025-04-18",
+  "sheets": [
+   "Version 1",
+   "Version 2",
+   "Version 3",
+   "Version 4",
+   "Version 5",
+   "Draft"
+  ],
+  "graphics": 858,
+  "fonts": [
+   "LMSans10-Regular",
+   "AmericanTypewriter",
+   "Avenir-Book"
+  ]
+ },
+ "RL4CO Poster": {
+  "file": "sources/OmniGraffle/RL4CO Poster.graffle",
+  "thumb": "rl4co-poster.jpg",
+  "kind": "poster",
+  "modified": "2023-10-23",
+  "sheets": [
+   "Version 1",
+   "Version 2",
+   "Canvas 3"
+  ],
+  "graphics": 236,
+  "fonts": [
+   "LMSans10-Regular",
+   "CourierNewPSMT",
+   "CourierNewPS-ItalicMT"
+  ]
+ },
+ "RL4CO UML": {
+  "file": "sources/OmniGraffle/RL4CO UML.graffle",
+  "thumb": "rl4co-uml.jpg",
+  "kind": "overview/architecture",
+  "modified": "2024-06-10",
+  "sheets": [
+   "Version 1",
+   "High Level",
+   "Version 2 Core",
+   "High Level Version 2"
+  ],
+  "graphics": 220,
+  "fonts": [
+   "Monaco"
+  ]
+ },
+ "RL4Phy Illustration": {
+  "file": "sources/OmniGraffle/RL4Phy Illustration.graffle",
+  "thumb": "rl4phy-illustration.jpg",
+  "kind": "illustration",
+  "modified": "2023-10-15",
+  "sheets": [
+   "Version 1",
+   "Version 2"
+  ],
+  "graphics": 41,
+  "fonts": [
+   "Avenir-BookOblique"
+  ]
+ },
+ "RL4Warning": {
+  "file": "sources/OmniGraffle/RL4Warning.graffle",
+  "thumb": "rl4warning.jpg",
+  "kind": "illustration",
+  "modified": "2023-06-19",
+  "sheets": [
+   "Version 0.1",
+   "Version 0.2"
+  ],
+  "graphics": 22,
+  "fonts": [
+   "HelveticaNeue",
+   "HelveticaNeue-BoldItalic"
+  ]
+ },
+ "RRNCO Illustration": {
+  "file": "sources/OmniGraffle/RRNCO Illustration.graffle",
+  "thumb": "rrnco-illustration.jpg",
+  "kind": "illustration",
+  "modified": "2025-12-03",
+  "sheets": [
+   "Version 1",
+   "Version 2"
+  ],
+  "graphics": 373,
+  "fonts": [
+   "LMSans10-Regular",
+   "Monaco",
+   "Avenir-Book"
+  ]
+ },
+ "ReEvo Overview": {
+  "file": "sources/OmniGraffle/ReEvo Overview.graffle",
+  "thumb": "reevo-overview.jpg",
+  "kind": "overview/architecture",
+  "modified": "2026-08-25",
+  "sheets": [
+   "Version 1",
+   "Version 2",
+   "Version 3",
+   "Version 4",
+   "Version 4 no bg"
+  ],
+  "graphics": 564,
+  "fonts": [
+   "LMSans10-Regular",
+   "Monaco"
+  ]
+ },
+ "ReEvo Reflect Example": {
+  "file": "sources/OmniGraffle/ReEvo Reflect Example.graffle",
+  "thumb": "reevo-reflect-example.jpg",
+  "kind": "illustration",
+  "modified": "2024-05-15",
+  "sheets": [
+   "Source",
+   "Version 2",
+   "Version 3",
+   "Version 4"
+  ],
+  "graphics": 232,
+  "fonts": [
+   "Menlo-Regular",
+   "LMSans10-Regular"
+  ]
+ },
+ "RelationalInference": {
+  "file": "sources/OmniGraffle/RelationalInference.graffle",
+  "thumb": "relationalinference.jpg",
+  "kind": "illustration",
+  "modified": "2022-11-09",
+  "sheets": [
+   "Canvas 1",
+   "Canvas 2"
+  ],
+  "graphics": 71,
+  "fonts": [
+   "HelveticaNeue"
+  ]
+ },
+ "Robot Navigation Experiment Visualization": {
+  "file": "sources/OmniGraffle/Robot Navigation Experiment Visualization.graffle",
+  "thumb": "robot-navigation-experiment-visualization.jpg",
+  "kind": "plot/visualization",
+  "modified": "2023-12-27",
+  "sheets": [
+   "Version 1"
+  ],
+  "graphics": 29,
+  "fonts": [
+   "ArialMT"
+  ]
+ },
+ "Robot Navigation Group Reward Illustration": {
+  "file": "sources/OmniGraffle/Robot Navigation Group Reward Illustration.graffle",
+  "thumb": "robot-navigation-group-reward-illustration.jpg",
+  "kind": "illustration",
+  "modified": "2023-12-26",
+  "sheets": [
+   "Version 1",
+   "Version 2",
+   "Version 3"
+  ],
+  "graphics": 158,
+  "fonts": [
+   "LMSans10-Regular"
+  ]
+ },
+ "Robot Navigation Hero Experiment": {
+  "file": "sources/OmniGraffle/Robot Navigation Hero Experiment.graffle",
+  "thumb": "robot-navigation-hero-experiment.jpg",
+  "kind": "plot/visualization",
+  "modified": "2023-12-26",
+  "sheets": [
+   "CrowdNav Visualization"
+  ],
+  "graphics": 263,
+  "fonts": [
+   "ArialMT"
+  ]
+ },
+ "Robot Navigation Hero Illustration": {
+  "file": "sources/OmniGraffle/Robot Navigation Hero Illustration .graffle",
+  "thumb": "robot-navigation-hero-illustration.jpg",
+  "kind": "illustration",
+  "modified": "2023-12-17",
+  "sheets": [
+   "Version 1",
+   "Version 2",
+   "Version 3",
+   "Version 4"
+  ],
+  "graphics": 634,
+  "fonts": [
+   "ArialMT"
+  ]
+ },
+ "Robot Navigation Overview Illustration": {
+  "file": "sources/OmniGraffle/Robot Navigation Overview Illustration.graffle",
+  "thumb": "robot-navigation-overview-illustration.jpg",
+  "kind": "overview/architecture",
+  "modified": "2025-04-18",
+  "sheets": [
+   "Version 1",
+   "Version 2",
+   "Version 3",
+   "Version 4"
+  ],
+  "graphics": 801,
+  "fonts": [
+   "ArialMT"
+  ]
+ },
+ "Robot Navigation Visualization 2": {
+  "file": "sources/OmniGraffle/Robot Navigation Visualization 2.graffle",
+  "thumb": "robot-navigation-visualization-2.jpg",
+  "kind": "plot/visualization",
+  "modified": "2024-07-31",
+  "sheets": [
+   "Reference",
+   "01",
+   "02",
+   "03",
+   "04",
+   "05",
+   "06",
+   "07",
+   "08",
+   "09",
+   "10",
+   "11",
+   "12",
+   "13",
+   "14",
+   "15",
+   "16",
+   "17",
+   "18",
+   "19",
+   "20",
+   "21",
+   "22",
+   "23",
+   "24",
+   "25",
+   "26",
+   "27",
+   "28",
+   "29",
+   "30",
+   "31",
+   "32",
+   "33",
+   "34",
+   "35",
+   "36",
+   "37",
+   "38",
+   "39",
+   "40",
+   "41",
+   "42",
+   "25 ng",
+   "25 our w/o dg",
+   "25 our w/o g",
+   "35 our",
+   "35 our w/o g"
+  ],
+  "graphics": 3138,
+  "fonts": []
+ },
+ "Robot Navigation Visualization 3": {
+  "file": "sources/OmniGraffle/Robot Navigation Visualization 3.graffle",
+  "thumb": "robot-navigation-visualization-3.jpg",
+  "kind": "plot/visualization",
+  "modified": "2024-07-30",
+  "sheets": [
+   "Canvas 1"
+  ],
+  "graphics": 81,
+  "fonts": [
+   "HelveticaNeue"
+  ]
+ },
+ "Robot Navigation Visualization": {
+  "file": "sources/OmniGraffle/Robot Navigation Visualization.graffle",
+  "thumb": "robot-navigation-visualization.jpg",
+  "kind": "plot/visualization",
+  "modified": "2024-07-30",
+  "sheets": [
+   "CrowdNav Visualization",
+   "Robot Navigation Visualization",
+   "Experiment Visualization Demo",
+   "Experiment Visualization",
+   "Pre Visual 1",
+   "Pre Visual 2",
+   "Pre Visual 3"
+  ],
+  "graphics": 1259,
+  "fonts": [
+   "ArialMT"
+  ]
+ },
+ "RouteFinder Overview Omelet": {
+  "file": "sources/OmniGraffle/RouteFinder Overview Omelet.graffle",
+  "thumb": "routefinder-overview-omelet.jpg",
+  "kind": "overview/architecture",
+  "modified": "2024-09-23",
+  "sheets": [
+   "Version 1",
+   "Version 2",
+   "Backup"
+  ],
+  "graphics": 625,
+  "fonts": [
+   "LMSans10-Regular",
+   "Monaco",
+   "Avenir-Book"
+  ]
+ },
+ "RouteFinder Overview": {
+  "file": "sources/OmniGraffle/RouteFinder Overview.graffle",
+  "thumb": "routefinder-overview.jpg",
+  "kind": "overview/architecture",
+  "modified": "2026-08-25",
+  "sheets": [
+   "Version 1",
+   "Version 2",
+   "Version 3",
+   "Version 4",
+   "Version 5",
+   "Unused"
+  ],
+  "graphics": 992,
+  "fonts": [
+   "LMSans10-Regular",
+   "Monaco"
+  ]
+ },
+ "RouteFinder Proble Describtion": {
+  "file": "sources/OmniGraffle/RouteFinder Proble Describtion.graffle",
+  "thumb": "routefinder-proble-describtion.jpg",
+  "kind": "illustration",
+  "modified": "2024-11-24",
+  "sheets": [
+   "Version 1",
+   "Version 2",
+   "Version 3",
+   "RL4CO Appendix Version"
+  ],
+  "graphics": 535,
+  "fonts": [
+   "LMSans10-Regular",
+   "Monaco"
+  ]
+ },
+ "RouteFinder Sampling": {
+  "file": "sources/OmniGraffle/RouteFinder Sampling.graffle",
+  "thumb": "routefinder-sampling.jpg",
+  "kind": "illustration",
+  "modified": "2024-05-22",
+  "sheets": [
+   "Version 1",
+   "Version 2",
+   "Version 3"
+  ],
+  "graphics": 150,
+  "fonts": [
+   "LMSans10-Regular",
+   "Monaco"
+  ]
+ },
+ "RouteFinder Transformer Structure": {
+  "file": "sources/OmniGraffle/RouteFinder Transformer Structure.graffle",
+  "thumb": "routefinder-transformer-structure.jpg",
+  "kind": "overview/architecture",
+  "modified": "2024-09-30",
+  "sheets": [
+   "Version 1",
+   "Version 2"
+  ],
+  "graphics": 111,
+  "fonts": [
+   "LMSans10-Regular"
+  ]
+ },
+ "SSM Illustration": {
+  "file": "sources/OmniGraffle/SSM Illustration.graffle",
+  "thumb": "ssm-illustration.jpg",
+  "kind": "illustration",
+  "modified": "2024-03-27",
+  "sheets": [
+   "Continuous SSM",
+   "Discrete SSM",
+   "S4 Embedding",
+   "S6 Embedding",
+   "S6 Full",
+   "RNN",
+   "Attention",
+   "S6 v.s. Attention"
+  ],
+  "graphics": 302,
+  "fonts": []
+ },
+ "ScalCO Illustration": {
+  "file": "sources/OmniGraffle/ScalCO Illustration.graffle",
+  "thumb": "scalco-illustration.jpg",
+  "kind": "illustration",
+  "modified": "2023-10-31",
+  "sheets": [
+   "Canvas 1",
+   "Different Size",
+   "Different Capacity",
+   "Attention Dilution",
+   "Dynamic Embedding",
+   "Different Distribution",
+   "Canvas 2",
+   "Canvas 3"
+  ],
+  "graphics": 760,
+  "fonts": [
+   "LMSans10-Regular",
+   "STSongti-SC-Regular"
+  ]
+ },
+ "Sell Items": {
+  "file": "sources/OmniGraffle/Sell Items.graffle",
+  "thumb": "sell-items.jpg",
+  "kind": "illustration",
+  "modified": "2026-03-17",
+  "sheets": [
+   "耳机",
+   "塔罗牌",
+   "手柄",
+   "键盘",
+   "钢笔",
+   "照片打印机",
+   "PSP",
+   "墨水",
+   "羽毛球拍"
+  ],
+  "graphics": 48,
+  "fonts": [
+   "MapleMono-NF-CN-Regular"
+  ]
+ },
+ "Shipload Overview": {
+  "file": "sources/OmniGraffle/Shipload Overview.graffle",
+  "thumb": "shipload-overview.jpg",
+  "kind": "overview/architecture",
+  "modified": "2025-04-20",
+  "sheets": [
+   "Canvas 1",
+   "Cathy Figure Version 1",
+   "Cathy Figure Version 2"
+  ],
+  "graphics": 142,
+  "fonts": [
+   "LMSans10-Regular",
+   "Monaco",
+   "AppleColorEmoji"
+  ]
+ },
+ "Splendar UI": {
+  "file": "sources/OmniGraffle/Splendar UI.graffle",
+  "thumb": "splendar-ui.jpg",
+  "kind": "ui/cheatsheet",
+  "modified": "2025-12-14",
+  "sheets": [
+   "Canvas 1",
+   "Canvas 2"
+  ],
+  "graphics": 338,
+  "fonts": [
+   "Monaco"
+  ]
+ },
+ "SplineGraphNets": {
+  "file": "sources/OmniGraffle/SplineGraphNets.graffle",
+  "thumb": "splinegraphnets.jpg",
+  "kind": "illustration",
+  "modified": "2023-08-08",
+  "sheets": [
+   "Overall",
+   "Overall 1",
+   "Train Test"
+  ],
+  "graphics": 569,
+  "fonts": [
+   "TimesNewRomanPSMT",
+   "TimesNewRomanPS-ItalicMT"
+  ]
+ },
+ "Step Audio Post Training": {
+  "file": "sources/OmniGraffle/Step Audio Post Training.graffle",
+  "thumb": "step-audio-post-training.jpg",
+  "kind": "illustration",
+  "modified": "2026-06-22",
+  "sheets": [
+   "Canvas 1"
+  ],
+  "graphics": 159,
+  "fonts": [
+   "MapleMono-NF-CN-Regular",
+   "MapleMono-NF-CN-Bold"
+  ]
+ },
+ "Trace Studio Logo": {
+  "file": "sources/OmniGraffle/Trace Studio Logo.graffle",
+  "thumb": "trace-studio-logo.jpg",
+  "kind": "logo/cover",
+  "modified": "2026-04-14",
+  "sheets": [
+   "Avatar White",
+   "Avatar White Rounded Corner",
+   "Avatar White Trans BG",
+   "Avatar Black",
+   "Avatar Black Trans BG",
+   "Horizontal Text Black",
+   "Horizontal Text White",
+   "Vertical Text Black",
+   "Vertical Text Write",
+   "Banner",
+   "Banner Playground",
+   "Banner Playground Small"
+  ],
+  "graphics": 193,
+  "fonts": []
+ },
+ "TrajEvo CGES": {
+  "file": "sources/OmniGraffle/TrajEvo CGES.graffle",
+  "thumb": "trajevo-cges.jpg",
+  "kind": "illustration",
+  "modified": "2025-07-22",
+  "sheets": [
+   "Version 1",
+   "Version 2"
+  ],
+  "graphics": 89,
+  "fonts": [
+   "CMUSerif-Roman"
+  ]
+ },
+ "TrajEvo Motivation": {
+  "file": "sources/OmniGraffle/TrajEvo Motivation.graffle",
+  "thumb": "trajevo-motivation.jpg",
+  "kind": "motivation/comparison",
+  "modified": "2025-10-06",
+  "sheets": [
+   "Version 1",
+   "Version 2",
+   "Version 3",
+   "Version 4",
+   "Version 5",
+   "Version 6"
+  ],
+  "graphics": 401,
+  "fonts": [
+   "LMSans10-Regular"
+  ]
+ },
+ "TrajEvo Overview": {
+  "file": "sources/OmniGraffle/TrajEvo Overview.graffle",
+  "thumb": "trajevo-overview.jpg",
+  "kind": "overview/architecture",
+  "modified": "2025-07-24",
+  "sheets": [
+   "Version 1",
+   "Version 2"
+  ],
+  "graphics": 415,
+  "fonts": [
+   "FiraCode-Light",
+   "CMUSerif-Roman"
+  ]
+ },
+ "Transformer Time-series Prediction Model": {
+  "file": "sources/OmniGraffle/Transformer Time-series Prediction Model.graffle",
+  "thumb": "transformer-time-series-prediction-model.jpg",
+  "kind": "overview/architecture",
+  "modified": "2025-04-18",
+  "sheets": [
+   "Reference",
+   "Version 1",
+   "Version 2",
+   "Version 3",
+   "Version 4"
+  ],
+  "graphics": 850,
+  "fonts": [
+   "LMSans10-Regular",
+   "Monaco",
+   "Avenir-Book"
+  ]
+ },
+ "Transformer Time-series Prediction Overall": {
+  "file": "sources/OmniGraffle/Transformer Time-series Prediction Overall.graffle",
+  "thumb": "transformer-time-series-prediction-overall.jpg",
+  "kind": "overview/architecture",
+  "modified": "2025-04-18",
+  "sheets": [
+   "Version 1",
+   "Version 2 for Paper 3 Draft",
+   "Version 2 for Paper 3",
+   "Version 2 for Paper 4"
+  ],
+  "graphics": 721,
+  "fonts": [
+   "LMSans10-Regular",
+   "Monaco",
+   "PingFangSC-Regular"
+  ]
+ },
+ "Travel Map": {
+  "file": "sources/OmniGraffle/Travel Map.graffle",
+  "thumb": "travel-map.jpg",
+  "kind": "illustration",
+  "modified": "2025-05-14",
+  "sheets": [
+   "Canvas 1"
+  ],
+  "graphics": 19,
+  "fonts": []
+ },
+ "USPR Overview": {
+  "file": "sources/OmniGraffle/USPR Overview.graffle",
+  "thumb": "uspr-overview.jpg",
+  "kind": "overview/architecture",
+  "modified": "2026-08-25",
+  "sheets": [
+   "USPR Version 1",
+   "USPR Version 1 No BG",
+   "USPR Version 2"
+  ],
+  "graphics": 1501,
+  "fonts": [
+   "LMSans10-Regular",
+   "Monaco",
+   "Avenir-Book"
+  ]
+ },
+ "USPR Poster": {
+  "file": "sources/OmniGraffle/USPR Poster.graffle",
+  "thumb": "uspr-poster.jpg",
+  "kind": "poster",
+  "modified": "2026-06-02",
+  "sheets": [
+   "Canvas 1",
+   "Canvas 7",
+   "Materials",
+   "Canvas 6",
+   "Canvas 3",
+   "Canvas 5",
+   "Canvas 4"
+  ],
+  "graphics": 535,
+  "fonts": [
+   "LMSans10-Regular",
+   "CMUSerif-Roman",
+   "AppleColorEmoji"
+  ]
+ },
+ "VRPAgent Overview": {
+  "file": "sources/OmniGraffle/VRPAgent Overview.graffle",
+  "thumb": "vrpagent-overview.jpg",
+  "kind": "overview/architecture",
+  "modified": "2025-09-23",
+  "sheets": [
+   "Version 1",
+   "Version 2"
+  ],
+  "graphics": 253,
+  "fonts": [
+   "LMSans10-Regular",
+   "Monaco",
+   "AppleColorEmoji"
+  ]
+ },
+ "Water Research 5 Cynobactera": {
+  "file": "sources/OmniGraffle/Water Research 5 Cynobactera.graffle",
+  "thumb": "water-research-5-cynobactera.jpg",
+  "kind": "plot/visualization",
+  "modified": "2025-12-04",
+  "sheets": [
+   "Canvas 1",
+   "Canvas 2"
+  ],
+  "graphics": 8,
+  "fonts": [
+   "CMUSerif-Roman"
+  ]
+ },
+ "Water Research LLM": {
+  "file": "sources/OmniGraffle/Water Research LLM.graffle",
+  "thumb": "water-research-llm.jpg",
+  "kind": "illustration",
+  "modified": "2026-10-15",
+  "sheets": [
+   "Canvas 1"
+  ],
+  "graphics": 152,
+  "fonts": [
+   "MapleMono-NF-CN-Regular",
+   "MapleMono-NF-CN-Medium",
+   "MapleMono-NF-CN-Light"
+  ]
+ },
+ "Water Research New Ideas": {
+  "file": "sources/OmniGraffle/Water Research New Ideas.graffle",
+  "thumb": "water-research-new-ideas.jpg",
+  "kind": "motivation/comparison",
+  "modified": "2025-04-04",
+  "sheets": [
+   "Interpolation Ideas",
+   "Explainable Prediction"
+  ],
+  "graphics": 94,
+  "fonts": [
+   "CMUSerif-Roman"
+  ]
+ },
+ "Water Research Overview": {
+  "file": "sources/OmniGraffle/Water Research Overview.graffle",
+  "thumb": "water-research-overview.jpg",
+  "kind": "overview/architecture",
+  "modified": "2023-10-15",
+  "sheets": [
+   "Version 1",
+   "Version 2"
+  ],
+  "graphics": 301,
+  "fonts": [
+   "TimesNewRomanPSMT"
+  ]
+ },
+ "Water Research Paper 4 Baselines": {
+  "file": "sources/OmniGraffle/Water Research Paper 4 Baselines.graffle",
+  "thumb": "water-research-paper-4-baselines.jpg",
+  "kind": "plot/visualization",
+  "modified": "2025-03-10",
+  "sheets": [
+   "Coagulant Dosage",
+   "SW Turbidity",
+   "Pre-chlorine",
+   "SW Chlorine",
+   "Mid chlorine"
+  ],
+  "graphics": 70,
+  "fonts": [
+   "CMUSerif-Roman"
+  ]
+ },
+ "WaterResearch": {
+  "file": "sources/OmniGraffle/WaterResearch.graffle",
+  "thumb": "waterresearch.jpg",
+  "kind": "illustration",
+  "modified": "2023-05-13",
+  "sheets": [
+   "GAMTF Version 2",
+   "GAMTF Version 1",
+   "GAMTF Components",
+   "Overall Version 3",
+   "Overall Version 2",
+   "Overall Version 1"
+  ],
+  "graphics": 1040,
+  "fonts": [
+   "TimesNewRomanPSMT"
+  ]
+ }
+}
